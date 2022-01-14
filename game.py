@@ -11,15 +11,15 @@ from players.player_8 import Player as player_8
 from defs import Turn, Action
 
 players: list = [
-  player_0,
-  player_1,
-  player_2,
-  player_3,
-  player_4,
-  player_5,
-  player_6,
-  player_7,
-  player_8
+  player_0(),
+  player_1(),
+  player_2(),
+  player_3(),
+  player_4(),
+  player_5(),
+  player_6(),
+  player_7(),
+  player_8()
 ]
 
 fights_done = []
@@ -53,14 +53,17 @@ def fight(player_i, player_j):
 
     for turn in range(10):
         print("\nROUND", turn + 1)
+
         try:
-            player_i_action = player_i.play(turn, player_i_history)
+            player_i_action = player_i.play(turn, player_i_history, player_j)
         except:
+            print("Erreur pour joueur", player_i.name)
             player_i_action = Action.COOPERATE
 
         try:
-            player_j_action = player_j.play(turn, player_j_history)
+            player_j_action = player_j.play(turn, player_j_history, player_i)
         except:
+            print("Erreur pour joueur", player_j.name)
             player_j_action = Action.COOPERATE
 
         if player_i_action == Action.COOPERATE:
