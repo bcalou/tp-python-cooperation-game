@@ -1,4 +1,4 @@
-from defs import Action, Turn
+from defs import Action, Turn, random
 
 class Player:
     gain: int = 0
@@ -9,7 +9,8 @@ class Player:
 
     def play(turn_index: int, history: list[Turn]) -> Action:
         print("history", history)
-        if turn_index % 2:
+        number = random.randint(0, 1)
+        if number == 0:
             return Action.COOPERATE
-        else
+        else :
             return Action.CHEAT
