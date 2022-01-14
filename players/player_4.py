@@ -36,7 +36,6 @@ class Player:
             if turn_index == 9:
                     return Action.CHEAT
             return Action.COOPERATE
-        have_cheat : bool = False
         elif opponent.name == "Tonic":
             return Action.CHEAT
         else:
