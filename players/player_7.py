@@ -11,19 +11,9 @@ class Player:
         pass
 
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
+        
         if opponent.name == "Bojji":
-            have_cheat : bool = False
-            if(turn_index >= 1):
-                for i in history:
-                    if(i["opponent_action"] == Action.CHEAT):                   
-                        have_cheat = True
-            if(turn_index == 9):
-                return Action.CHEAT
-            if(have_cheat):
-                return Action.CHEAT
-            else:
-                return Action.COOPERATE
-        elif opponent.name == "Colsplif":
+            have_cheat = False
             if(turn_index == 0):
                 return Action.COOPERATE
             for i in history:
@@ -33,15 +23,42 @@ class Player:
                 return Action.CHEAT
             else:
                 return Action.COOPERATE
+        elif opponent.name == "Colsplif":
+            have_cheat = False
+            if(turn_index == 0):
+                return Action.COOPERATE
+            for i in history:
+                    if(i["opponent_action"] == Action.CHEAT):                   
+                        have_cheat = True
+            if(have_cheat):
+                return Action.CHEAT
+            else:
+                return Action.COOPERATE
+
+        elif opponent.name == "Maxwelle":
+            if(turn_index == 0):
+                return Action.COOPERATE
+            else:
+                return Action.CHEAT
+        
+        elif opponent.name == "Lucalixte":
+            if(turn_index == 0):
+                return Action.COOPERATE
+            else:
+                return Action.CHEAT
         
         elif opponent.name == "Topone":
             
             return Action.CHEAT
+        
+        elif  opponent.name == "Cooplease":
+            return Action.COOPERATE
+
 
         else:
-            liste = [Action.COOPERATE, Action.CHEAT]
-            if turn_index == 1:
-                return Action.CHEAT
+            if random.randint(0,2)>1:
+                return Action.COOPERATE
             else:
-                return random.choice(liste)
+                return Action.CHEAT
 
+            
