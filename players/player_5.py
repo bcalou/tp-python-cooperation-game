@@ -19,9 +19,9 @@ class Player:
             return Action.COOPERATE if randint(0,1) == 1 else Action.CHEAT
           
         for turn in history:
-            if turn[opponent_action] == Action.CHEAT and turn[self_action] == Action.COOPERATE:
+            if turn["opponent_action"] == Action.CHEAT and turn["self_action"] == Action.COOPERATE:
                 lose +=1
-            elif turn[self_action] == Action.CHEAT and turn[opponent_action] == Action.COOPERATE:
+            elif turn["self_action"] == Action.CHEAT and turn["opponent_action"] == Action.COOPERATE:
                 win +=1
             
         if win > lose:
