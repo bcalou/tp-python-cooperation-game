@@ -13,36 +13,19 @@ class Player:
 
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         if opponent.name == "Cooplease":
-            return self.classic(history)
-        elif opponent.name == "Rats" or opponent.name == "Bojji":
+            print("Désolé, les affaires sont les affaires...")
             return Action.CHEAT
+        elif opponent.name == "Rats" or opponent.name == "Bojji":
+            return Action.COOPERATE
         elif opponent.name == "Topone":
-            if turn_index == 9:
-                return Action.CHEAT
-            else:
-                return self.classic(history)
-        elif opponent.name == "Maxwelle" and turn_index == 0:
+            return Action.COOPERATE
+        elif opponent.name == "Maxwelle":
             return Action.COOPERATE
         elif opponent.name == "Tonic":
-            self.tonicTurn += 1
-            for turn in history:
-                if turn["opponent_action"] == Action.CHEAT:
-                    return Action.CHEAT
-            if self.tonicTurn % 2 == 1:
-                return Action.COOPERATE
-            else:
-                return Action.CHEAT
-            
-
-        if turn_index == 9:
+            return Action.COOPERATE
+        elif opponent.name == "Lucalixte":
+            return Action.COOPERATE
+        elif opponent.name == "YELLOW APPLE":
             return Action.CHEAT
-        for turn in history:
-            if turn["opponent_action"] == Action.CHEAT:
-                return Action.CHEAT
-        return Action.COOPERATE
-
-    def classic(self, history: list[Turn]):
-        for turn in history:
-            if turn["opponent_action"] == Action.CHEAT:
-                return Action.CHEAT
+            
         return Action.COOPERATE
