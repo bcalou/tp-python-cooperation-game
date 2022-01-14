@@ -5,7 +5,7 @@ class Player:
     turn_gain: int = 0
     cooperate_count: int = 0
     cheat_count: int = 0
-    name: str = "Player 8"
+    name: str = "Colsplif"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
         for turn in history:
