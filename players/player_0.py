@@ -6,6 +6,14 @@ class Player:
     cooperate_count: int = 0
     cheat_count: int = 0
     name: str = "Player 0"
+    name: str = "Topone"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
         return Action.COOPERATE
+        if (turn_index==1) :
+            return Action.CHEAT
+        else :
+            if (Turn.oponent_action[turn_index-1] == Action.CHEAT) :
+                return Action.CHEAT
+            else :
+                return Action.COOPERATE
