@@ -1,4 +1,5 @@
 from defs import Action, Turn
+import random
 
 class Player:
     gain: int = 0
@@ -11,10 +12,16 @@ class Player:
         pass
 
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
-        if (turn_index==0) :
+        #punch=
+        if (opponent.name=="Rats" or opponent.name=="Bojji") :
+            print("Bande de rats. Les rats ne vaincront pas.")
+            return Action.CHEAT
+        elif (turn_index==0) :
+            print("Top 0 même au dessus du top 1")
             return Action.CHEAT
         else :
-            if (Turn.opponent_action[turn_index-1] == Action.CHEAT) :
+            if (history[turn_index-1]["opponent_action"]== Action.CHEAT) :
                 return Action.CHEAT
             else :
+                print("Que de l'amour pour mon Top 1")
                 return Action.COOPERATE
