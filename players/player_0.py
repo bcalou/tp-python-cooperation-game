@@ -23,9 +23,9 @@ class Player:
         "La j’ai vraiment trop chaud",
         "Bois encore un verre, viens danser contre moi",
         "En tout cas j'espère bien qu’on finira tous les deux !"]
-        act=[Action.CHEAT, Action.COOPERATE]
+        
         if (opponent.name =="Rats" and turn_index==0) :
-            print('\033[91m'+"Joyeux anniversaire Nico, tu es mon Top 1 à moi <3"+'\033[0m')
+            print("Joyeux anniversaire Nico, tu es mon Top 1 à moi <3")
         else :
-            print('\033[92m'+random.choice(punch)+'\033[0m')
-        return random.choice(act)
+            print(random.choice(punch))
+        return Action.COOPERATE
