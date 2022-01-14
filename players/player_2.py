@@ -7,7 +7,7 @@ class Player:
     turn_gain: int = 0
     cooperate_count: int = 0
     cheat_count: int = 0
-    name: str = "Player 2"
+    name: str = "Tonic Algorithme"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
         random_num = randint(1,3)
