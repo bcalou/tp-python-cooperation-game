@@ -17,7 +17,7 @@ class Player:
         elif opponent.name == "Rats" or opponent.name == "Bojji":
             return Action.CHEAT
         elif opponent.name == "Topone":
-            if turn_index == 0 or turn_index == 9:
+            if turn_index == 9:
                 return Action.CHEAT
             else:
                 return self.classic(history)
