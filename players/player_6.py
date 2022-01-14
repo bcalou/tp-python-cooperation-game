@@ -5,7 +5,15 @@ class Player:
     turn_gain: int = 0
     cooperate_count: int = 0
     cheat_count: int = 0
-    name: str = "Player 6"
+    name: str = "Bojji"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
-        return Action.COOPERATE
+        have_cheat : bool = False
+        if(turn_index >= 2):
+            for i in history:
+                if(i["self_action"] ==  Action.CHEAT):                   
+                    have_cheat = True
+        if(have_cheat):
+            return Action.CHEAT
+        else:
+            return Action.COOPERATE
