@@ -1,4 +1,5 @@
-from defs import Action, Turn, random
+from defs import Action, Turn
+import random
 
 class Player:
     gain: int = 0
@@ -7,7 +8,10 @@ class Player:
     cheat_count: int = 0
     name: str = "Lucalixte"
 
-    def play(turn_index: int, history: list[Turn]) -> Action:
+    def __init__(self):
+        pass
+
+    def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         print("history", history)
         number = random.randint(0, 1)
         if number == 0:

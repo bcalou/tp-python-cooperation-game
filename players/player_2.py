@@ -9,7 +9,10 @@ class Player:
     cheat_count: int = 0
     name: str = "Tonic"
 
-    def play(turn_index: int, history: list[Turn]) -> Action:
+    def __init__(self):
+        pass
+
+    def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         coop_count = 0
         if turn_index >= 2:
             if history[turn_index-2]["opponent_action"] == Action.COOPERATE:

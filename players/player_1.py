@@ -7,7 +7,10 @@ class Player:
     cheat_count: int = 0
     name: str = "Rats"
 
-    def play(turn_index: int, history: list[Turn]) -> Action:
+    def __init__(self):
+        pass
+
+    def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         main_action = Action.COOPERATE
         if turn_index == 0:
             return Action.COOPERATE

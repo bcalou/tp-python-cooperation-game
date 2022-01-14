@@ -7,7 +7,10 @@ class Player:
     cheat_count: int = 0
     name: str = "Bojji"
 
-    def play(turn_index: int, history: list[Turn]) -> Action:
+    def __init__(self):
+        pass
+
+    def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         have_cheat : bool = False
         if(turn_index >= 1):
             for i in history:

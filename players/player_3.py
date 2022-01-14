@@ -7,7 +7,10 @@ class Player:
     cheat_count: int = 0
     name: str = "Cooplease"
 
-    def play(turn_index: int, history: list[Turn]) -> Action:
+    def __init__(self):
+        pass
+
+    def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         if len(history) == 0:
             print("Landry: Hey! Devenons amis!")
             return Action.COOPERATE

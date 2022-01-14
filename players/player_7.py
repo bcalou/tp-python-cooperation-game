@@ -7,9 +7,12 @@ class Player:
     cheat_count: int = 0
     name: str = "YELLOW APPLE"
 
-    def play(turn_index: int, history: list[Turn]) -> Action:
+    def __init__(self):
+        pass
+
+    def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         liste = [Action.COOPERATE, Action.CHEAT]
         if turn_index == 1:
             return Action.CHEAT
         else:
-            return random.choice(liste，p=[0.66,0.33])
+            return random.choice(liste, p=[0.66,0.33])
