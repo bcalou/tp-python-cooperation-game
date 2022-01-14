@@ -26,6 +26,18 @@ class Player:
         
         if (opponent.name =="Rats" and turn_index==0) :
             print("Joyeux anniversaire Nico, tu es mon Top 1 à moi <3")
+        elif (opponent.name =="YELLOW APPLE" and turn_index==0) :
+            print("Meme si vous vous etes acharnees contre nous on vous aime <3")
+        elif (opponent.name =="Bojji" and turn_index==0) :
+            print("On vous aime moins que les YEllOW APPLE mais un peu quand meme, pas beaucoup.")
+        elif (opponent.name =="Colsplif" and turn_index==0) :
+            print("Nos preferes <3")
+        elif (opponent.name =="Tonic" and turn_index==0) :
+            print("Envie2boir1verreAvecVous <3 (de ginto)")
+        elif (opponent.name =="Lucalixte" and turn_index==0) :
+            print("Keur")
+        elif (opponent.name =="Maxwelle" and turn_index==0) :
+            print("On vous tape pas desssus kom des taupes")
         else :
             print(random.choice(punch))
         return Action.COOPERATE
