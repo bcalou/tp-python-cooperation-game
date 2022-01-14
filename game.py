@@ -77,11 +77,11 @@ def fight(player_i, player_j):
             player_j.cheat_count += 1
         
         if (player_i_action == Action.COOPERATE and player_j_action == Action.COOPERATE):
-            print(player_i.name, "et", player_j.name, "coopèrent")
+            print(player_i.name, "et", player_j.name, "cooperent")
             gain(player_i, 2)
             gain(player_j, 2)
         elif (player_i_action == Action.CHEAT and player_j_action == Action.CHEAT):
-            print(player_i.name, "et", player_j.name, "ont triché tous les deux !")
+            print(player_i.name, "et", player_j.name, "ont triche tous les deux !")
         elif (player_i_action == Action.CHEAT and player_j_action == Action.COOPERATE):
             print(player_i.name, "a trahi", player_j.name, "!")
             gain(player_i, 3)
@@ -107,9 +107,9 @@ def gain(player, amount: int):
     player.turn_gain += amount
 
     if (amount > 0):
-        print(player.name, "gagne", amount, "pièces (total", player.turn_gain, ")")
+        print(player.name, "gagne", amount, "pieces (total", player.turn_gain, ")")
     else:
-        print(player.name, "perd", amount, "pièce (total", player.turn_gain, ")")
+        print(player.name, "perd", amount, "piece (total", player.turn_gain, ")")
 
 
 import matplotlib.pyplot as plt
@@ -126,7 +126,7 @@ def show_results():
         print(player.name, ":", player.gain)
 
     plt.bar(x_axis, y_axis)
-    plt.title('Résultats')
+    plt.title('Resultats')
     plt.xlabel('Joueur')
     plt.ylabel('Gain')
     plt.savefig('result.png')
@@ -144,9 +144,9 @@ def show_behaviors():
             behavior_y_axis.append((player.cooperate_count / (player.cooperate_count + player.cheat_count)) * 100)
 
     plt.bar(behavior_x_axis, behavior_y_axis)
-    plt.title('Pourcentage de coopération')
+    plt.title('Pourcentage de cooperation')
     plt.xlabel('Joueur')
-    plt.ylabel('Coopération')
+    plt.ylabel('Cooperation')
     plt.savefig('coop.png')
     plt.close()
         
