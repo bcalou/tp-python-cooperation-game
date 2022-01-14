@@ -8,4 +8,7 @@ class Player:
     name: str = "Player 8"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
+        for turn in history:
+            if turn["opponent_action"] == Action.CHEAT:
+                return Action.CHEAT
         return Action.COOPERATE
