@@ -12,9 +12,13 @@ class Player:
         pass
 
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
-        print("history", history)
-        number = random.randint(0, 1)
-        if number == 0:
+        if opponent.gain == self.gain:
             return Action.COOPERATE
-        else :
+        elif opponent.gain > self.gain:
             return Action.CHEAT
+        else:
+            number = random.randint(0, 3)
+            if number == 0:
+                return Action.CHEAT
+            else :
+                return Action.COOPERATE
