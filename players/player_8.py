@@ -8,6 +8,8 @@ class Player:
     name: str = "Colsplif"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
+        if turn_index == 9:
+            return Action.CHEAT
         for turn in history:
             if turn["opponent_action"] == Action.CHEAT:
                 return Action.CHEAT
