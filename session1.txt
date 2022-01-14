@@ -1,0 +1,1968 @@
+
+
+==================================================
+Topone VS Player 1
+==================================================
+
+ROUND 1
+Topone et Player 1 coopèrent
+Topone gagne 2 pièces (total 2 )
+Player 1 gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone a trahi Player 1 !
+Topone gagne 3 pièces (total 5 )
+Player 1 perd -1 pièce (total 1 )
+
+ROUND 3
+Player 1 a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Player 1 gagne 3 pièces (total 4 )
+
+ROUND 4
+Topone et Player 1 coopèrent
+Topone gagne 2 pièces (total 6 )
+Player 1 gagne 2 pièces (total 6 )
+
+ROUND 5
+Player 1 a trahi Topone !
+Topone perd -1 pièce (total 5 )
+Player 1 gagne 3 pièces (total 9 )
+
+ROUND 6
+Topone et Player 1 coopèrent
+Topone gagne 2 pièces (total 7 )
+Player 1 gagne 2 pièces (total 11 )
+
+ROUND 7
+Player 1 a trahi Topone !
+Topone perd -1 pièce (total 6 )
+Player 1 gagne 3 pièces (total 14 )
+
+ROUND 8
+Topone et Player 1 coopèrent
+Topone gagne 2 pièces (total 8 )
+Player 1 gagne 2 pièces (total 16 )
+
+ROUND 9
+Player 1 a trahi Topone !
+Topone perd -1 pièce (total 7 )
+Player 1 gagne 3 pièces (total 19 )
+
+ROUND 10
+Topone et Player 1 coopèrent
+Topone gagne 2 pièces (total 9 )
+Player 1 gagne 2 pièces (total 21 )
+
+
+==================================================
+Topone VS Tonic Algorithme
+==================================================
+
+ROUND 1
+Topone et Tonic Algorithme coopèrent
+Topone gagne 2 pièces (total 2 )
+Tonic Algorithme gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone a trahi Tonic Algorithme !
+Topone gagne 3 pièces (total 5 )
+Tonic Algorithme perd -1 pièce (total 1 )
+
+ROUND 3
+Tonic Algorithme a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Tonic Algorithme gagne 3 pièces (total 4 )
+
+ROUND 4
+Topone et Tonic Algorithme coopèrent
+Topone gagne 2 pièces (total 6 )
+Tonic Algorithme gagne 2 pièces (total 6 )
+
+ROUND 5
+Topone et Tonic Algorithme coopèrent
+Topone gagne 2 pièces (total 8 )
+Tonic Algorithme gagne 2 pièces (total 8 )
+
+ROUND 6
+Tonic Algorithme a trahi Topone !
+Topone perd -1 pièce (total 7 )
+Tonic Algorithme gagne 3 pièces (total 11 )
+
+ROUND 7
+Tonic Algorithme a trahi Topone !
+Topone perd -1 pièce (total 6 )
+Tonic Algorithme gagne 3 pièces (total 14 )
+
+ROUND 8
+Tonic Algorithme a trahi Topone !
+Topone perd -1 pièce (total 5 )
+Tonic Algorithme gagne 3 pièces (total 17 )
+
+ROUND 9
+Tonic Algorithme a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Tonic Algorithme gagne 3 pièces (total 20 )
+
+ROUND 10
+Tonic Algorithme a trahi Topone !
+Topone perd -1 pièce (total 3 )
+Tonic Algorithme gagne 3 pièces (total 23 )
+
+
+==================================================
+Topone VS Landry et William [Coop cool]
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 2 )
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Topone a trahi Landry et William [Coop cool] !
+Topone gagne 3 pièces (total 5 )
+Landry et William [Coop cool] perd -1 pièce (total 1 )
+
+ROUND 3
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Landry et William [Coop cool] gagne 3 pièces (total 4 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 6 )
+Landry et William [Coop cool] gagne 2 pièces (total 6 )
+
+ROUND 5
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 8 )
+Landry et William [Coop cool] gagne 2 pièces (total 8 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 10 )
+Landry et William [Coop cool] gagne 2 pièces (total 10 )
+
+ROUND 7
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 12 )
+Landry et William [Coop cool] gagne 2 pièces (total 12 )
+
+ROUND 8
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 14 )
+Landry et William [Coop cool] gagne 2 pièces (total 14 )
+
+ROUND 9
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 16 )
+Landry et William [Coop cool] gagne 2 pièces (total 16 )
+
+ROUND 10
+C'est cool ça, continuons! :)
+Topone et Landry et William [Coop cool] coopèrent
+Topone gagne 2 pièces (total 18 )
+Landry et William [Coop cool] gagne 2 pièces (total 18 )
+
+
+==================================================
+Topone VS Lucalixte
+==================================================
+
+ROUND 1
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 2 )
+Lucalixte gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone a trahi Lucalixte !
+Topone gagne 3 pièces (total 5 )
+Lucalixte perd -1 pièce (total 1 )
+
+ROUND 3
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 7 )
+Lucalixte gagne 2 pièces (total 3 )
+
+ROUND 4
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 9 )
+Lucalixte gagne 2 pièces (total 5 )
+
+ROUND 5
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 11 )
+Lucalixte gagne 2 pièces (total 7 )
+
+ROUND 6
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 13 )
+Lucalixte gagne 2 pièces (total 9 )
+
+ROUND 7
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 15 )
+Lucalixte gagne 2 pièces (total 11 )
+
+ROUND 8
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 17 )
+Lucalixte gagne 2 pièces (total 13 )
+
+ROUND 9
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 19 )
+Lucalixte gagne 2 pièces (total 15 )
+
+ROUND 10
+Topone et Lucalixte coopèrent
+Topone gagne 2 pièces (total 21 )
+Lucalixte gagne 2 pièces (total 17 )
+
+
+==================================================
+Topone VS Maxwelle
+==================================================
+
+ROUND 1
+Topone et Maxwelle coopèrent
+Topone gagne 2 pièces (total 2 )
+Maxwelle gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone et Maxwelle ont triché tous les deux !
+
+ROUND 3
+Topone et Maxwelle coopèrent
+Topone gagne 2 pièces (total 4 )
+Maxwelle gagne 2 pièces (total 4 )
+
+ROUND 4
+Maxwelle a trahi Topone !
+Topone perd -1 pièce (total 3 )
+Maxwelle gagne 3 pièces (total 7 )
+
+ROUND 5
+Topone et Maxwelle coopèrent
+Topone gagne 2 pièces (total 5 )
+Maxwelle gagne 2 pièces (total 9 )
+
+ROUND 6
+Maxwelle a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Maxwelle gagne 3 pièces (total 12 )
+
+ROUND 7
+Topone et Maxwelle coopèrent
+Topone gagne 2 pièces (total 6 )
+Maxwelle gagne 2 pièces (total 14 )
+
+ROUND 8
+Maxwelle a trahi Topone !
+Topone perd -1 pièce (total 5 )
+Maxwelle gagne 3 pièces (total 17 )
+
+ROUND 9
+Topone et Maxwelle coopèrent
+Topone gagne 2 pièces (total 7 )
+Maxwelle gagne 2 pièces (total 19 )
+
+ROUND 10
+Maxwelle a trahi Topone !
+Topone perd -1 pièce (total 6 )
+Maxwelle gagne 3 pièces (total 22 )
+
+
+==================================================
+Topone VS Bojji
+==================================================
+
+ROUND 1
+Topone et Bojji coopèrent
+Topone gagne 2 pièces (total 2 )
+Bojji gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone a trahi Bojji !
+Topone gagne 3 pièces (total 5 )
+Bojji perd -1 pièce (total 1 )
+
+ROUND 3
+Bojji a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Bojji gagne 3 pièces (total 4 )
+
+ROUND 4
+Bojji a trahi Topone !
+Topone perd -1 pièce (total 3 )
+Bojji gagne 3 pièces (total 7 )
+
+ROUND 5
+Bojji a trahi Topone !
+Topone perd -1 pièce (total 2 )
+Bojji gagne 3 pièces (total 10 )
+
+ROUND 6
+Bojji a trahi Topone !
+Topone perd -1 pièce (total 1 )
+Bojji gagne 3 pièces (total 13 )
+
+ROUND 7
+Bojji a trahi Topone !
+Topone perd -1 pièce (total 0 )
+Bojji gagne 3 pièces (total 16 )
+
+ROUND 8
+Bojji a trahi Topone !
+Topone perd -1 pièce (total -1 )
+Bojji gagne 3 pièces (total 19 )
+
+ROUND 9
+Bojji a trahi Topone !
+Topone perd -1 pièce (total -2 )
+Bojji gagne 3 pièces (total 22 )
+
+ROUND 10
+Bojji a trahi Topone !
+Topone perd -1 pièce (total -3 )
+Bojji gagne 3 pièces (total 25 )
+
+
+==================================================
+Topone VS Player 7
+==================================================
+
+ROUND 1
+Topone et Player 7 coopèrent
+Topone gagne 2 pièces (total 2 )
+Player 7 gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone et Player 7 ont triché tous les deux !
+
+ROUND 3
+Player 7 a trahi Topone !
+Topone perd -1 pièce (total 1 )
+Player 7 gagne 3 pièces (total 5 )
+
+ROUND 4
+Topone et Player 7 coopèrent
+Topone gagne 2 pièces (total 3 )
+Player 7 gagne 2 pièces (total 7 )
+
+ROUND 5
+Player 7 a trahi Topone !
+Topone perd -1 pièce (total 2 )
+Player 7 gagne 3 pièces (total 10 )
+
+ROUND 6
+Topone et Player 7 coopèrent
+Topone gagne 2 pièces (total 4 )
+Player 7 gagne 2 pièces (total 12 )
+
+ROUND 7
+Topone et Player 7 coopèrent
+Topone gagne 2 pièces (total 6 )
+Player 7 gagne 2 pièces (total 14 )
+
+ROUND 8
+Player 7 a trahi Topone !
+Topone perd -1 pièce (total 5 )
+Player 7 gagne 3 pièces (total 17 )
+
+ROUND 9
+Player 7 a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Player 7 gagne 3 pièces (total 20 )
+
+ROUND 10
+Player 7 a trahi Topone !
+Topone perd -1 pièce (total 3 )
+Player 7 gagne 3 pièces (total 23 )
+
+
+==================================================
+Topone VS Player 8
+==================================================
+
+ROUND 1
+Topone et Player 8 coopèrent
+Topone gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+Topone a trahi Player 8 !
+Topone gagne 3 pièces (total 5 )
+Player 8 perd -1 pièce (total 1 )
+
+ROUND 3
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total 4 )
+Player 8 gagne 3 pièces (total 4 )
+
+ROUND 4
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total 3 )
+Player 8 gagne 3 pièces (total 7 )
+
+ROUND 5
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total 2 )
+Player 8 gagne 3 pièces (total 10 )
+
+ROUND 6
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total 1 )
+Player 8 gagne 3 pièces (total 13 )
+
+ROUND 7
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total 0 )
+Player 8 gagne 3 pièces (total 16 )
+
+ROUND 8
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total -1 )
+Player 8 gagne 3 pièces (total 19 )
+
+ROUND 9
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total -2 )
+Player 8 gagne 3 pièces (total 22 )
+
+ROUND 10
+Player 8 a trahi Topone !
+Topone perd -1 pièce (total -3 )
+Player 8 gagne 3 pièces (total 25 )
+
+
+==================================================
+Player 1 VS Tonic Algorithme
+==================================================
+
+ROUND 1
+Tonic Algorithme a trahi Player 1 !
+Player 1 perd -1 pièce (total -1 )
+Tonic Algorithme gagne 3 pièces (total 3 )
+
+ROUND 2
+Player 1 et Tonic Algorithme coopèrent
+Player 1 gagne 2 pièces (total 1 )
+Tonic Algorithme gagne 2 pièces (total 5 )
+
+ROUND 3
+Player 1 et Tonic Algorithme ont triché tous les deux !
+
+ROUND 4
+Player 1 et Tonic Algorithme coopèrent
+Player 1 gagne 2 pièces (total 3 )
+Tonic Algorithme gagne 2 pièces (total 7 )
+
+ROUND 5
+Tonic Algorithme a trahi Player 1 !
+Player 1 perd -1 pièce (total 2 )
+Tonic Algorithme gagne 3 pièces (total 10 )
+
+ROUND 6
+Tonic Algorithme a trahi Player 1 !
+Player 1 perd -1 pièce (total 1 )
+Tonic Algorithme gagne 3 pièces (total 13 )
+
+ROUND 7
+Player 1 et Tonic Algorithme coopèrent
+Player 1 gagne 2 pièces (total 3 )
+Tonic Algorithme gagne 2 pièces (total 15 )
+
+ROUND 8
+Player 1 et Tonic Algorithme coopèrent
+Player 1 gagne 2 pièces (total 5 )
+Tonic Algorithme gagne 2 pièces (total 17 )
+
+ROUND 9
+Tonic Algorithme a trahi Player 1 !
+Player 1 perd -1 pièce (total 4 )
+Tonic Algorithme gagne 3 pièces (total 20 )
+
+ROUND 10
+Player 1 et Tonic Algorithme coopèrent
+Player 1 gagne 2 pièces (total 6 )
+Tonic Algorithme gagne 2 pièces (total 22 )
+
+
+==================================================
+Player 1 VS Landry et William [Coop cool]
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Player 1 et Landry et William [Coop cool] coopèrent
+Player 1 gagne 2 pièces (total 2 )
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Player 1 et Landry et William [Coop cool] coopèrent
+Player 1 gagne 2 pièces (total 4 )
+Landry et William [Coop cool] gagne 2 pièces (total 4 )
+
+ROUND 3
+C'est cool ça, continuons! :)
+Player 1 a trahi Landry et William [Coop cool] !
+Player 1 gagne 3 pièces (total 7 )
+Landry et William [Coop cool] perd -1 pièce (total 3 )
+
+ROUND 4
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Player 1 !
+Player 1 perd -1 pièce (total 6 )
+Landry et William [Coop cool] gagne 3 pièces (total 6 )
+
+ROUND 5
+C'est cool ça, continuons! :)
+Player 1 a trahi Landry et William [Coop cool] !
+Player 1 gagne 3 pièces (total 9 )
+Landry et William [Coop cool] perd -1 pièce (total 5 )
+
+ROUND 6
+Héééééé! Pas cool :(
+Player 1 et Landry et William [Coop cool] ont triché tous les deux !
+
+ROUND 7
+Héééééé! Pas cool :(
+Player 1 et Landry et William [Coop cool] ont triché tous les deux !
+
+ROUND 8
+Héééééé! Pas cool :(
+Player 1 et Landry et William [Coop cool] ont triché tous les deux !
+
+ROUND 9
+Héééééé! Pas cool :(
+Player 1 et Landry et William [Coop cool] ont triché tous les deux !
+
+ROUND 10
+Héééééé! Pas cool :(
+Player 1 et Landry et William [Coop cool] ont triché tous les deux !
+
+
+==================================================
+Player 1 VS Lucalixte
+==================================================
+
+ROUND 1
+Player 1 et Lucalixte coopèrent
+Player 1 gagne 2 pièces (total 2 )
+Lucalixte gagne 2 pièces (total 2 )
+
+ROUND 2
+Player 1 et Lucalixte coopèrent
+Player 1 gagne 2 pièces (total 4 )
+Lucalixte gagne 2 pièces (total 4 )
+
+ROUND 3
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 7 )
+Lucalixte perd -1 pièce (total 3 )
+
+ROUND 4
+Player 1 et Lucalixte coopèrent
+Player 1 gagne 2 pièces (total 9 )
+Lucalixte gagne 2 pièces (total 5 )
+
+ROUND 5
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 12 )
+Lucalixte perd -1 pièce (total 4 )
+
+ROUND 6
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 15 )
+Lucalixte perd -1 pièce (total 3 )
+
+ROUND 7
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 18 )
+Lucalixte perd -1 pièce (total 2 )
+
+ROUND 8
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 21 )
+Lucalixte perd -1 pièce (total 1 )
+
+ROUND 9
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 24 )
+Lucalixte perd -1 pièce (total 0 )
+
+ROUND 10
+Player 1 a trahi Lucalixte !
+Player 1 gagne 3 pièces (total 27 )
+Lucalixte perd -1 pièce (total -1 )
+
+
+==================================================
+Player 1 VS Maxwelle
+==================================================
+
+ROUND 1
+Player 1 et Maxwelle coopèrent
+Player 1 gagne 2 pièces (total 2 )
+Maxwelle gagne 2 pièces (total 2 )
+
+ROUND 2
+Maxwelle a trahi Player 1 !
+Player 1 perd -1 pièce (total 1 )
+Maxwelle gagne 3 pièces (total 5 )
+
+ROUND 3
+Player 1 a trahi Maxwelle !
+Player 1 gagne 3 pièces (total 4 )
+Maxwelle perd -1 pièce (total 4 )
+
+ROUND 4
+Maxwelle a trahi Player 1 !
+Player 1 perd -1 pièce (total 3 )
+Maxwelle gagne 3 pièces (total 7 )
+
+ROUND 5
+Player 1 a trahi Maxwelle !
+Player 1 gagne 3 pièces (total 6 )
+Maxwelle perd -1 pièce (total 6 )
+
+ROUND 6
+Maxwelle a trahi Player 1 !
+Player 1 perd -1 pièce (total 5 )
+Maxwelle gagne 3 pièces (total 9 )
+
+ROUND 7
+Player 1 a trahi Maxwelle !
+Player 1 gagne 3 pièces (total 8 )
+Maxwelle perd -1 pièce (total 8 )
+
+ROUND 8
+Maxwelle a trahi Player 1 !
+Player 1 perd -1 pièce (total 7 )
+Maxwelle gagne 3 pièces (total 11 )
+
+ROUND 9
+Player 1 a trahi Maxwelle !
+Player 1 gagne 3 pièces (total 10 )
+Maxwelle perd -1 pièce (total 10 )
+
+ROUND 10
+Maxwelle a trahi Player 1 !
+Player 1 perd -1 pièce (total 9 )
+Maxwelle gagne 3 pièces (total 13 )
+
+
+==================================================
+Player 1 VS Bojji
+==================================================
+
+ROUND 1
+Player 1 et Bojji coopèrent
+Player 1 gagne 2 pièces (total 2 )
+Bojji gagne 2 pièces (total 2 )
+
+ROUND 2
+Player 1 et Bojji coopèrent
+Player 1 gagne 2 pièces (total 4 )
+Bojji gagne 2 pièces (total 4 )
+
+ROUND 3
+Player 1 a trahi Bojji !
+Player 1 gagne 3 pièces (total 7 )
+Bojji perd -1 pièce (total 3 )
+
+ROUND 4
+Bojji a trahi Player 1 !
+Player 1 perd -1 pièce (total 6 )
+Bojji gagne 3 pièces (total 6 )
+
+ROUND 5
+Player 1 et Bojji ont triché tous les deux !
+
+ROUND 6
+Player 1 et Bojji ont triché tous les deux !
+
+ROUND 7
+Player 1 et Bojji ont triché tous les deux !
+
+ROUND 8
+Player 1 et Bojji ont triché tous les deux !
+
+ROUND 9
+Player 1 et Bojji ont triché tous les deux !
+
+ROUND 10
+Player 1 et Bojji ont triché tous les deux !
+
+
+==================================================
+Player 1 VS Player 7
+==================================================
+
+ROUND 1
+Player 1 et Player 7 coopèrent
+Player 1 gagne 2 pièces (total 2 )
+Player 7 gagne 2 pièces (total 2 )
+
+ROUND 2
+Player 7 a trahi Player 1 !
+Player 1 perd -1 pièce (total 1 )
+Player 7 gagne 3 pièces (total 5 )
+
+ROUND 3
+Player 1 et Player 7 ont triché tous les deux !
+
+ROUND 4
+Player 1 et Player 7 coopèrent
+Player 1 gagne 2 pièces (total 3 )
+Player 7 gagne 2 pièces (total 7 )
+
+ROUND 5
+Player 7 a trahi Player 1 !
+Player 1 perd -1 pièce (total 2 )
+Player 7 gagne 3 pièces (total 10 )
+
+ROUND 6
+Player 7 a trahi Player 1 !
+Player 1 perd -1 pièce (total 1 )
+Player 7 gagne 3 pièces (total 13 )
+
+ROUND 7
+Player 1 et Player 7 coopèrent
+Player 1 gagne 2 pièces (total 3 )
+Player 7 gagne 2 pièces (total 15 )
+
+ROUND 8
+Player 1 et Player 7 coopèrent
+Player 1 gagne 2 pièces (total 5 )
+Player 7 gagne 2 pièces (total 17 )
+
+ROUND 9
+Player 7 a trahi Player 1 !
+Player 1 perd -1 pièce (total 4 )
+Player 7 gagne 3 pièces (total 20 )
+
+ROUND 10
+Player 7 a trahi Player 1 !
+Player 1 perd -1 pièce (total 3 )
+Player 7 gagne 3 pièces (total 23 )
+
+
+==================================================
+Player 1 VS Player 8
+==================================================
+
+ROUND 1
+Player 1 et Player 8 coopèrent
+Player 1 gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+Player 1 et Player 8 coopèrent
+Player 1 gagne 2 pièces (total 4 )
+Player 8 gagne 2 pièces (total 4 )
+
+ROUND 3
+Player 1 a trahi Player 8 !
+Player 1 gagne 3 pièces (total 7 )
+Player 8 perd -1 pièce (total 3 )
+
+ROUND 4
+Player 8 a trahi Player 1 !
+Player 1 perd -1 pièce (total 6 )
+Player 8 gagne 3 pièces (total 6 )
+
+ROUND 5
+Player 1 et Player 8 ont triché tous les deux !
+
+ROUND 6
+Player 1 et Player 8 ont triché tous les deux !
+
+ROUND 7
+Player 1 et Player 8 ont triché tous les deux !
+
+ROUND 8
+Player 1 et Player 8 ont triché tous les deux !
+
+ROUND 9
+Player 1 et Player 8 ont triché tous les deux !
+
+ROUND 10
+Player 1 et Player 8 ont triché tous les deux !
+
+
+==================================================
+Tonic Algorithme VS Landry et William [Coop cool]
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Tonic Algorithme et Landry et William [Coop cool] coopèrent
+Tonic Algorithme gagne 2 pièces (total 2 )
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Tonic Algorithme a trahi Landry et William [Coop cool] !
+Tonic Algorithme gagne 3 pièces (total 5 )
+Landry et William [Coop cool] perd -1 pièce (total 1 )
+
+ROUND 3
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 4 )
+Landry et William [Coop cool] gagne 3 pièces (total 4 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Tonic Algorithme a trahi Landry et William [Coop cool] !
+Tonic Algorithme gagne 3 pièces (total 7 )
+Landry et William [Coop cool] perd -1 pièce (total 3 )
+
+ROUND 5
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 6 )
+Landry et William [Coop cool] gagne 3 pièces (total 6 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Tonic Algorithme et Landry et William [Coop cool] coopèrent
+Tonic Algorithme gagne 2 pièces (total 8 )
+Landry et William [Coop cool] gagne 2 pièces (total 8 )
+
+ROUND 7
+C'est cool ça, continuons! :)
+Tonic Algorithme a trahi Landry et William [Coop cool] !
+Tonic Algorithme gagne 3 pièces (total 11 )
+Landry et William [Coop cool] perd -1 pièce (total 7 )
+
+ROUND 8
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 10 )
+Landry et William [Coop cool] gagne 3 pièces (total 10 )
+
+ROUND 9
+C'est cool ça, continuons! :)
+Tonic Algorithme a trahi Landry et William [Coop cool] !
+Tonic Algorithme gagne 3 pièces (total 13 )
+Landry et William [Coop cool] perd -1 pièce (total 9 )
+
+ROUND 10
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 12 )
+Landry et William [Coop cool] gagne 3 pièces (total 12 )
+
+
+==================================================
+Tonic Algorithme VS Lucalixte
+==================================================
+
+ROUND 1
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 2 )
+Lucalixte gagne 2 pièces (total 2 )
+
+ROUND 2
+Tonic Algorithme a trahi Lucalixte !
+Tonic Algorithme gagne 3 pièces (total 5 )
+Lucalixte perd -1 pièce (total 1 )
+
+ROUND 3
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 7 )
+Lucalixte gagne 2 pièces (total 3 )
+
+ROUND 4
+Tonic Algorithme a trahi Lucalixte !
+Tonic Algorithme gagne 3 pièces (total 10 )
+Lucalixte perd -1 pièce (total 2 )
+
+ROUND 5
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 12 )
+Lucalixte gagne 2 pièces (total 4 )
+
+ROUND 6
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 14 )
+Lucalixte gagne 2 pièces (total 6 )
+
+ROUND 7
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 16 )
+Lucalixte gagne 2 pièces (total 8 )
+
+ROUND 8
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 18 )
+Lucalixte gagne 2 pièces (total 10 )
+
+ROUND 9
+Tonic Algorithme et Lucalixte coopèrent
+Tonic Algorithme gagne 2 pièces (total 20 )
+Lucalixte gagne 2 pièces (total 12 )
+
+ROUND 10
+Tonic Algorithme a trahi Lucalixte !
+Tonic Algorithme gagne 3 pièces (total 23 )
+Lucalixte perd -1 pièce (total 11 )
+
+
+==================================================
+Tonic Algorithme VS Maxwelle
+==================================================
+
+ROUND 1
+Tonic Algorithme et Maxwelle coopèrent
+Tonic Algorithme gagne 2 pièces (total 2 )
+Maxwelle gagne 2 pièces (total 2 )
+
+ROUND 2
+Tonic Algorithme et Maxwelle ont triché tous les deux !
+
+ROUND 3
+Tonic Algorithme a trahi Maxwelle !
+Tonic Algorithme gagne 3 pièces (total 5 )
+Maxwelle perd -1 pièce (total 1 )
+
+ROUND 4
+Tonic Algorithme et Maxwelle ont triché tous les deux !
+
+ROUND 5
+Tonic Algorithme et Maxwelle coopèrent
+Tonic Algorithme gagne 2 pièces (total 7 )
+Maxwelle gagne 2 pièces (total 3 )
+
+ROUND 6
+Maxwelle a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 6 )
+Maxwelle gagne 3 pièces (total 6 )
+
+ROUND 7
+Tonic Algorithme et Maxwelle coopèrent
+Tonic Algorithme gagne 2 pièces (total 8 )
+Maxwelle gagne 2 pièces (total 8 )
+
+ROUND 8
+Tonic Algorithme et Maxwelle ont triché tous les deux !
+
+ROUND 9
+Tonic Algorithme et Maxwelle coopèrent
+Tonic Algorithme gagne 2 pièces (total 10 )
+Maxwelle gagne 2 pièces (total 10 )
+
+ROUND 10
+Maxwelle a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 9 )
+Maxwelle gagne 3 pièces (total 13 )
+
+
+==================================================
+Tonic Algorithme VS Bojji
+==================================================
+
+ROUND 1
+Tonic Algorithme et Bojji coopèrent
+Tonic Algorithme gagne 2 pièces (total 2 )
+Bojji gagne 2 pièces (total 2 )
+
+ROUND 2
+Tonic Algorithme et Bojji coopèrent
+Tonic Algorithme gagne 2 pièces (total 4 )
+Bojji gagne 2 pièces (total 4 )
+
+ROUND 3
+Tonic Algorithme a trahi Bojji !
+Tonic Algorithme gagne 3 pièces (total 7 )
+Bojji perd -1 pièce (total 3 )
+
+ROUND 4
+Bojji a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 6 )
+Bojji gagne 3 pièces (total 6 )
+
+ROUND 5
+Tonic Algorithme et Bojji ont triché tous les deux !
+
+ROUND 6
+Bojji a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 5 )
+Bojji gagne 3 pièces (total 9 )
+
+ROUND 7
+Tonic Algorithme et Bojji ont triché tous les deux !
+
+ROUND 8
+Tonic Algorithme et Bojji ont triché tous les deux !
+
+ROUND 9
+Bojji a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 4 )
+Bojji gagne 3 pièces (total 12 )
+
+ROUND 10
+Tonic Algorithme et Bojji ont triché tous les deux !
+
+
+==================================================
+Tonic Algorithme VS Player 7
+==================================================
+
+ROUND 1
+Player 7 a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total -1 )
+Player 7 gagne 3 pièces (total 3 )
+
+ROUND 2
+Player 7 a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total -2 )
+Player 7 gagne 3 pièces (total 6 )
+
+ROUND 3
+Tonic Algorithme et Player 7 ont triché tous les deux !
+
+ROUND 4
+Tonic Algorithme et Player 7 coopèrent
+Tonic Algorithme gagne 2 pièces (total 0 )
+Player 7 gagne 2 pièces (total 8 )
+
+ROUND 5
+Player 7 a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total -1 )
+Player 7 gagne 3 pièces (total 11 )
+
+ROUND 6
+Tonic Algorithme a trahi Player 7 !
+Tonic Algorithme gagne 3 pièces (total 2 )
+Player 7 perd -1 pièce (total 10 )
+
+ROUND 7
+Tonic Algorithme et Player 7 coopèrent
+Tonic Algorithme gagne 2 pièces (total 4 )
+Player 7 gagne 2 pièces (total 12 )
+
+ROUND 8
+Tonic Algorithme et Player 7 ont triché tous les deux !
+
+ROUND 9
+Player 7 a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 3 )
+Player 7 gagne 3 pièces (total 15 )
+
+ROUND 10
+Tonic Algorithme et Player 7 coopèrent
+Tonic Algorithme gagne 2 pièces (total 5 )
+Player 7 gagne 2 pièces (total 17 )
+
+
+==================================================
+Tonic Algorithme VS Player 8
+==================================================
+
+ROUND 1
+Tonic Algorithme et Player 8 coopèrent
+Tonic Algorithme gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+Tonic Algorithme et Player 8 coopèrent
+Tonic Algorithme gagne 2 pièces (total 4 )
+Player 8 gagne 2 pièces (total 4 )
+
+ROUND 3
+Tonic Algorithme et Player 8 coopèrent
+Tonic Algorithme gagne 2 pièces (total 6 )
+Player 8 gagne 2 pièces (total 6 )
+
+ROUND 4
+Tonic Algorithme et Player 8 coopèrent
+Tonic Algorithme gagne 2 pièces (total 8 )
+Player 8 gagne 2 pièces (total 8 )
+
+ROUND 5
+Tonic Algorithme et Player 8 coopèrent
+Tonic Algorithme gagne 2 pièces (total 10 )
+Player 8 gagne 2 pièces (total 10 )
+
+ROUND 6
+Tonic Algorithme et Player 8 coopèrent
+Tonic Algorithme gagne 2 pièces (total 12 )
+Player 8 gagne 2 pièces (total 12 )
+
+ROUND 7
+Tonic Algorithme a trahi Player 8 !
+Tonic Algorithme gagne 3 pièces (total 15 )
+Player 8 perd -1 pièce (total 11 )
+
+ROUND 8
+Tonic Algorithme et Player 8 ont triché tous les deux !
+
+ROUND 9
+Player 8 a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 14 )
+Player 8 gagne 3 pièces (total 14 )
+
+ROUND 10
+Player 8 a trahi Tonic Algorithme !
+Tonic Algorithme perd -1 pièce (total 13 )
+Player 8 gagne 3 pièces (total 17 )
+
+
+==================================================
+Landry et William [Coop cool] VS Lucalixte
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+Lucalixte gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 4 )
+Lucalixte gagne 2 pièces (total 4 )
+
+ROUND 3
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 6 )
+Lucalixte gagne 2 pièces (total 6 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 8 )
+Lucalixte gagne 2 pièces (total 8 )
+
+ROUND 5
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 10 )
+Lucalixte gagne 2 pièces (total 10 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 12 )
+Lucalixte gagne 2 pièces (total 12 )
+
+ROUND 7
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 14 )
+Lucalixte gagne 2 pièces (total 14 )
+
+ROUND 8
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 16 )
+Lucalixte gagne 2 pièces (total 16 )
+
+ROUND 9
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 18 )
+Lucalixte gagne 2 pièces (total 18 )
+
+ROUND 10
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Lucalixte coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 20 )
+Lucalixte gagne 2 pièces (total 20 )
+
+
+==================================================
+Landry et William [Coop cool] VS Maxwelle
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Landry et William [Coop cool] et Maxwelle coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+Maxwelle gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Maxwelle a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total 1 )
+Maxwelle gagne 3 pièces (total 5 )
+
+ROUND 3
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Maxwelle !
+Landry et William [Coop cool] gagne 3 pièces (total 4 )
+Maxwelle perd -1 pièce (total 4 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Maxwelle a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total 3 )
+Maxwelle gagne 3 pièces (total 7 )
+
+ROUND 5
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Maxwelle !
+Landry et William [Coop cool] gagne 3 pièces (total 6 )
+Maxwelle perd -1 pièce (total 6 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Maxwelle a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total 5 )
+Maxwelle gagne 3 pièces (total 9 )
+
+ROUND 7
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Maxwelle !
+Landry et William [Coop cool] gagne 3 pièces (total 8 )
+Maxwelle perd -1 pièce (total 8 )
+
+ROUND 8
+C'est cool ça, continuons! :)
+Maxwelle a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total 7 )
+Maxwelle gagne 3 pièces (total 11 )
+
+ROUND 9
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Maxwelle !
+Landry et William [Coop cool] gagne 3 pièces (total 10 )
+Maxwelle perd -1 pièce (total 10 )
+
+ROUND 10
+C'est cool ça, continuons! :)
+Maxwelle a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total 9 )
+Maxwelle gagne 3 pièces (total 13 )
+
+
+==================================================
+Landry et William [Coop cool] VS Bojji
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+Bojji gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 4 )
+Bojji gagne 2 pièces (total 4 )
+
+ROUND 3
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 6 )
+Bojji gagne 2 pièces (total 6 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 8 )
+Bojji gagne 2 pièces (total 8 )
+
+ROUND 5
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 10 )
+Bojji gagne 2 pièces (total 10 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 12 )
+Bojji gagne 2 pièces (total 12 )
+
+ROUND 7
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 14 )
+Bojji gagne 2 pièces (total 14 )
+
+ROUND 8
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 16 )
+Bojji gagne 2 pièces (total 16 )
+
+ROUND 9
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 18 )
+Bojji gagne 2 pièces (total 18 )
+
+ROUND 10
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Bojji coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 20 )
+Bojji gagne 2 pièces (total 20 )
+
+
+==================================================
+Landry et William [Coop cool] VS Player 7
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Player 7 a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total -1 )
+Player 7 gagne 3 pièces (total 3 )
+
+ROUND 2
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Player 7 !
+Landry et William [Coop cool] gagne 3 pièces (total 2 )
+Player 7 perd -1 pièce (total 2 )
+
+ROUND 3
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 7 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 4 )
+Player 7 gagne 2 pièces (total 4 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Player 7 a trahi Landry et William [Coop cool] !
+Landry et William [Coop cool] perd -1 pièce (total 3 )
+Player 7 gagne 3 pièces (total 7 )
+
+ROUND 5
+Héééééé! Pas cool :(
+Landry et William [Coop cool] a trahi Player 7 !
+Landry et William [Coop cool] gagne 3 pièces (total 6 )
+Player 7 perd -1 pièce (total 6 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 7 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 8 )
+Player 7 gagne 2 pièces (total 8 )
+
+ROUND 7
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 7 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 10 )
+Player 7 gagne 2 pièces (total 10 )
+
+ROUND 8
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 7 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 12 )
+Player 7 gagne 2 pièces (total 12 )
+
+ROUND 9
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 7 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 14 )
+Player 7 gagne 2 pièces (total 14 )
+
+ROUND 10
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 7 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 16 )
+Player 7 gagne 2 pièces (total 16 )
+
+
+==================================================
+Landry et William [Coop cool] VS Player 8
+==================================================
+
+ROUND 1
+Hey! Devenons amis!
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 4 )
+Player 8 gagne 2 pièces (total 4 )
+
+ROUND 3
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 6 )
+Player 8 gagne 2 pièces (total 6 )
+
+ROUND 4
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 8 )
+Player 8 gagne 2 pièces (total 8 )
+
+ROUND 5
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 10 )
+Player 8 gagne 2 pièces (total 10 )
+
+ROUND 6
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 12 )
+Player 8 gagne 2 pièces (total 12 )
+
+ROUND 7
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 14 )
+Player 8 gagne 2 pièces (total 14 )
+
+ROUND 8
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 16 )
+Player 8 gagne 2 pièces (total 16 )
+
+ROUND 9
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 18 )
+Player 8 gagne 2 pièces (total 18 )
+
+ROUND 10
+C'est cool ça, continuons! :)
+Landry et William [Coop cool] et Player 8 coopèrent
+Landry et William [Coop cool] gagne 2 pièces (total 20 )
+Player 8 gagne 2 pièces (total 20 )
+
+
+==================================================
+Lucalixte VS Maxwelle
+==================================================
+
+ROUND 1
+Lucalixte et Maxwelle coopèrent
+Lucalixte gagne 2 pièces (total 2 )
+Maxwelle gagne 2 pièces (total 2 )
+
+ROUND 2
+Maxwelle a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 1 )
+Maxwelle gagne 3 pièces (total 5 )
+
+ROUND 3
+Lucalixte et Maxwelle coopèrent
+Lucalixte gagne 2 pièces (total 3 )
+Maxwelle gagne 2 pièces (total 7 )
+
+ROUND 4
+Maxwelle a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 2 )
+Maxwelle gagne 3 pièces (total 10 )
+
+ROUND 5
+Lucalixte et Maxwelle coopèrent
+Lucalixte gagne 2 pièces (total 4 )
+Maxwelle gagne 2 pièces (total 12 )
+
+ROUND 6
+Maxwelle a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 3 )
+Maxwelle gagne 3 pièces (total 15 )
+
+ROUND 7
+Lucalixte et Maxwelle coopèrent
+Lucalixte gagne 2 pièces (total 5 )
+Maxwelle gagne 2 pièces (total 17 )
+
+ROUND 8
+Maxwelle a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 4 )
+Maxwelle gagne 3 pièces (total 20 )
+
+ROUND 9
+Lucalixte et Maxwelle coopèrent
+Lucalixte gagne 2 pièces (total 6 )
+Maxwelle gagne 2 pièces (total 22 )
+
+ROUND 10
+Maxwelle a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 5 )
+Maxwelle gagne 3 pièces (total 25 )
+
+
+==================================================
+Lucalixte VS Bojji
+==================================================
+
+ROUND 1
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 2 )
+Bojji gagne 2 pièces (total 2 )
+
+ROUND 2
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 4 )
+Bojji gagne 2 pièces (total 4 )
+
+ROUND 3
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 6 )
+Bojji gagne 2 pièces (total 6 )
+
+ROUND 4
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 8 )
+Bojji gagne 2 pièces (total 8 )
+
+ROUND 5
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 10 )
+Bojji gagne 2 pièces (total 10 )
+
+ROUND 6
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 12 )
+Bojji gagne 2 pièces (total 12 )
+
+ROUND 7
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 14 )
+Bojji gagne 2 pièces (total 14 )
+
+ROUND 8
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 16 )
+Bojji gagne 2 pièces (total 16 )
+
+ROUND 9
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 18 )
+Bojji gagne 2 pièces (total 18 )
+
+ROUND 10
+Lucalixte et Bojji coopèrent
+Lucalixte gagne 2 pièces (total 20 )
+Bojji gagne 2 pièces (total 20 )
+
+
+==================================================
+Lucalixte VS Player 7
+==================================================
+
+ROUND 1
+Lucalixte et Player 7 coopèrent
+Lucalixte gagne 2 pièces (total 2 )
+Player 7 gagne 2 pièces (total 2 )
+
+ROUND 2
+Lucalixte et Player 7 coopèrent
+Lucalixte gagne 2 pièces (total 4 )
+Player 7 gagne 2 pièces (total 4 )
+
+ROUND 3
+Lucalixte et Player 7 coopèrent
+Lucalixte gagne 2 pièces (total 6 )
+Player 7 gagne 2 pièces (total 6 )
+
+ROUND 4
+Player 7 a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 5 )
+Player 7 gagne 3 pièces (total 9 )
+
+ROUND 5
+Lucalixte et Player 7 coopèrent
+Lucalixte gagne 2 pièces (total 7 )
+Player 7 gagne 2 pièces (total 11 )
+
+ROUND 6
+Lucalixte et Player 7 coopèrent
+Lucalixte gagne 2 pièces (total 9 )
+Player 7 gagne 2 pièces (total 13 )
+
+ROUND 7
+Player 7 a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 8 )
+Player 7 gagne 3 pièces (total 16 )
+
+ROUND 8
+Player 7 a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 7 )
+Player 7 gagne 3 pièces (total 19 )
+
+ROUND 9
+Player 7 a trahi Lucalixte !
+Lucalixte perd -1 pièce (total 6 )
+Player 7 gagne 3 pièces (total 22 )
+
+ROUND 10
+Lucalixte et Player 7 coopèrent
+Lucalixte gagne 2 pièces (total 8 )
+Player 7 gagne 2 pièces (total 24 )
+
+
+==================================================
+Lucalixte VS Player 8
+==================================================
+
+ROUND 1
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 4 )
+Player 8 gagne 2 pièces (total 4 )
+
+ROUND 3
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 6 )
+Player 8 gagne 2 pièces (total 6 )
+
+ROUND 4
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 8 )
+Player 8 gagne 2 pièces (total 8 )
+
+ROUND 5
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 10 )
+Player 8 gagne 2 pièces (total 10 )
+
+ROUND 6
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 12 )
+Player 8 gagne 2 pièces (total 12 )
+
+ROUND 7
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 14 )
+Player 8 gagne 2 pièces (total 14 )
+
+ROUND 8
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 16 )
+Player 8 gagne 2 pièces (total 16 )
+
+ROUND 9
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 18 )
+Player 8 gagne 2 pièces (total 18 )
+
+ROUND 10
+Lucalixte et Player 8 coopèrent
+Lucalixte gagne 2 pièces (total 20 )
+Player 8 gagne 2 pièces (total 20 )
+
+
+==================================================
+Maxwelle VS Bojji
+==================================================
+
+ROUND 1
+Maxwelle et Bojji coopèrent
+Maxwelle gagne 2 pièces (total 2 )
+Bojji gagne 2 pièces (total 2 )
+
+ROUND 2
+Maxwelle a trahi Bojji !
+Maxwelle gagne 3 pièces (total 5 )
+Bojji perd -1 pièce (total 1 )
+
+ROUND 3
+Bojji a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 4 )
+Bojji gagne 3 pièces (total 4 )
+
+ROUND 4
+Maxwelle et Bojji ont triché tous les deux !
+
+ROUND 5
+Bojji a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 3 )
+Bojji gagne 3 pièces (total 7 )
+
+ROUND 6
+Maxwelle et Bojji ont triché tous les deux !
+
+ROUND 7
+Bojji a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 2 )
+Bojji gagne 3 pièces (total 10 )
+
+ROUND 8
+Maxwelle et Bojji ont triché tous les deux !
+
+ROUND 9
+Bojji a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 1 )
+Bojji gagne 3 pièces (total 13 )
+
+ROUND 10
+Maxwelle et Bojji ont triché tous les deux !
+
+
+==================================================
+Maxwelle VS Player 7
+==================================================
+
+ROUND 1
+Player 7 a trahi Maxwelle !
+Maxwelle perd -1 pièce (total -1 )
+Player 7 gagne 3 pièces (total 3 )
+
+ROUND 2
+Maxwelle et Player 7 ont triché tous les deux !
+
+ROUND 3
+Maxwelle et Player 7 coopèrent
+Maxwelle gagne 2 pièces (total 1 )
+Player 7 gagne 2 pièces (total 5 )
+
+ROUND 4
+Maxwelle et Player 7 ont triché tous les deux !
+
+ROUND 5
+Maxwelle et Player 7 coopèrent
+Maxwelle gagne 2 pièces (total 3 )
+Player 7 gagne 2 pièces (total 7 )
+
+ROUND 6
+Maxwelle et Player 7 ont triché tous les deux !
+
+ROUND 7
+Maxwelle et Player 7 coopèrent
+Maxwelle gagne 2 pièces (total 5 )
+Player 7 gagne 2 pièces (total 9 )
+
+ROUND 8
+Maxwelle a trahi Player 7 !
+Maxwelle gagne 3 pièces (total 8 )
+Player 7 perd -1 pièce (total 8 )
+
+ROUND 9
+Maxwelle et Player 7 coopèrent
+Maxwelle gagne 2 pièces (total 10 )
+Player 7 gagne 2 pièces (total 10 )
+
+ROUND 10
+Maxwelle a trahi Player 7 !
+Maxwelle gagne 3 pièces (total 13 )
+Player 7 perd -1 pièce (total 9 )
+
+
+==================================================
+Maxwelle VS Player 8
+==================================================
+
+ROUND 1
+Maxwelle et Player 8 coopèrent
+Maxwelle gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+Maxwelle a trahi Player 8 !
+Maxwelle gagne 3 pièces (total 5 )
+Player 8 perd -1 pièce (total 1 )
+
+ROUND 3
+Player 8 a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 4 )
+Player 8 gagne 3 pièces (total 4 )
+
+ROUND 4
+Maxwelle et Player 8 ont triché tous les deux !
+
+ROUND 5
+Player 8 a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 3 )
+Player 8 gagne 3 pièces (total 7 )
+
+ROUND 6
+Maxwelle et Player 8 ont triché tous les deux !
+
+ROUND 7
+Player 8 a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 2 )
+Player 8 gagne 3 pièces (total 10 )
+
+ROUND 8
+Maxwelle et Player 8 ont triché tous les deux !
+
+ROUND 9
+Player 8 a trahi Maxwelle !
+Maxwelle perd -1 pièce (total 1 )
+Player 8 gagne 3 pièces (total 13 )
+
+ROUND 10
+Maxwelle et Player 8 ont triché tous les deux !
+
+
+==================================================
+Bojji VS Player 7
+==================================================
+
+ROUND 1
+Player 7 a trahi Bojji !
+Bojji perd -1 pièce (total -1 )
+Player 7 gagne 3 pièces (total 3 )
+
+ROUND 2
+Player 7 a trahi Bojji !
+Bojji perd -1 pièce (total -2 )
+Player 7 gagne 3 pièces (total 6 )
+
+ROUND 3
+Bojji et Player 7 ont triché tous les deux !
+
+ROUND 4
+Bojji a trahi Player 7 !
+Bojji gagne 3 pièces (total 1 )
+Player 7 perd -1 pièce (total 5 )
+
+ROUND 5
+Bojji a trahi Player 7 !
+Bojji gagne 3 pièces (total 4 )
+Player 7 perd -1 pièce (total 4 )
+
+ROUND 6
+Bojji et Player 7 ont triché tous les deux !
+
+ROUND 7
+Bojji a trahi Player 7 !
+Bojji gagne 3 pièces (total 7 )
+Player 7 perd -1 pièce (total 3 )
+
+ROUND 8
+Bojji a trahi Player 7 !
+Bojji gagne 3 pièces (total 10 )
+Player 7 perd -1 pièce (total 2 )
+
+ROUND 9
+Bojji et Player 7 ont triché tous les deux !
+
+ROUND 10
+Bojji a trahi Player 7 !
+Bojji gagne 3 pièces (total 13 )
+Player 7 perd -1 pièce (total 1 )
+
+
+==================================================
+Bojji VS Player 8
+==================================================
+
+ROUND 1
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 2 )
+Player 8 gagne 2 pièces (total 2 )
+
+ROUND 2
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 4 )
+Player 8 gagne 2 pièces (total 4 )
+
+ROUND 3
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 6 )
+Player 8 gagne 2 pièces (total 6 )
+
+ROUND 4
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 8 )
+Player 8 gagne 2 pièces (total 8 )
+
+ROUND 5
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 10 )
+Player 8 gagne 2 pièces (total 10 )
+
+ROUND 6
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 12 )
+Player 8 gagne 2 pièces (total 12 )
+
+ROUND 7
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 14 )
+Player 8 gagne 2 pièces (total 14 )
+
+ROUND 8
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 16 )
+Player 8 gagne 2 pièces (total 16 )
+
+ROUND 9
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 18 )
+Player 8 gagne 2 pièces (total 18 )
+
+ROUND 10
+Bojji et Player 8 coopèrent
+Bojji gagne 2 pièces (total 20 )
+Player 8 gagne 2 pièces (total 20 )
+
+
+==================================================
+Player 7 VS Player 8
+==================================================
+
+ROUND 1
+Player 7 a trahi Player 8 !
+Player 7 gagne 3 pièces (total 3 )
+Player 8 perd -1 pièce (total -1 )
+
+ROUND 2
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 3
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 4
+Player 8 a trahi Player 7 !
+Player 7 perd -1 pièce (total 2 )
+Player 8 gagne 3 pièces (total 2 )
+
+ROUND 5
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 6
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 7
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 8
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 9
+Player 7 et Player 8 ont triché tous les deux !
+
+ROUND 10
+Player 8 a trahi Player 7 !
+Player 7 perd -1 pièce (total 1 )
+Player 8 gagne 3 pièces (total 5 )
+
+
+==================================================
+Topone : 54
+Player 1 : 87
+Tonic Algorithme : 111
+Landry et William [Coop cool] : 120
+Lucalixte : 100
+Maxwelle : 101
+Bojji : 129
+Player 7 : 114
+Player 8 : 126
