@@ -15,30 +15,33 @@ class Player:
         have_cheat: bool = False
         if(turn_index == 0):
             print("Salut à vous équipe "+opponent.name)
-        match opponent:
-            case "Rats":
+        if(opponent.name == "Rats"):
+            return self._classicTurn(turn_index, history, have_cheat, True)
+        if(opponent.name == "Cooplease"):
+            return self._classicTurn(turn_index, history, have_cheat, True)
+        if(opponent.name == "Lucalixte"):
+            return self._classicTurn(turn_index, history, have_cheat, True)
+        if(opponent.name == "YELLOW APPLE"):
+            return self._classicTurn(turn_index, history, have_cheat, True)
+        if(opponent.name == "Colsplif"):
+            print("Bande de copiteur !!!")
+            return Action.CHEAT
+        if(opponent.name == "Topone"):
+            print("Alors comme ça on essaie de nous anarquer ?!")
+            return Action.CHEAT
+        if(opponent.name == "Tonic"):
+            if(turn_index >= 2):
                 return Action.CHEAT
-            case "Topone":
-                return Action.CHEAT
-            case "Tonic":
-                if(turn_index == 5):
-                    return Action.CHEAT
-                else:
-                    return self._classicTurn(turn_index, history, have_cheat)
-            case "YELLOW APPLE":
-                if(turn_index == 1):
-                    return Action.CHEAT
-                else:
-                    return self._classicTurn(turn_index, history, have_cheat)
-            case _:
-                return self._classicTurn(turn_index, history, have_cheat)
+            else:
+                return Action.COOPERATE
+        return self._classicTurn(turn_index, history, have_cheat, False)
 
-    def _classicTurn(self, turn_index, history, have_cheat):
+    def _classicTurn(self, turn_index, history, have_cheat, friend):
         if(turn_index >= 1):
             for turn in history:
                 if(turn["opponent_action"] == Action.CHEAT):
                     have_cheat = True
-        if(turn_index == 9):
+        if(turn_index == 9 and not friend):
             return Action.CHEAT
         if(have_cheat):
             return Action.CHEAT
