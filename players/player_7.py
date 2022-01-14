@@ -9,4 +9,7 @@ class Player:
 
     def play(turn_index: int, history: list[Turn]) -> Action:
         liste = [Action.COOPERATE, Action.CHEAT]
-        return random.choice(liste)
+        if turn_index == 1:
+            return Action.CHEAT
+        else:
+            return random.choice(liste，p=[0.66,0.33])
