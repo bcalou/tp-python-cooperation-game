@@ -11,6 +11,14 @@ class Player:
         pass
 
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
+        # Même si on perd, je pense que c'est une fin honorable
+        if opponent.name in ["Colsplif", "Bojji", "Lucalixte", "Rats", "YELLOW APPLE"]:
+            print("Promesse tenue!")
+            return Action.COOPERATE
+        print("Désolé mais vous nous avez pas proposé de relation de confiance....")
+        return Action.CHEAT
+        
+        # Oui le reste du code ne sert à rien
         if len(history) == 0:
             print("Landry: Hey! Devenons amis!")
             return Action.COOPERATE
