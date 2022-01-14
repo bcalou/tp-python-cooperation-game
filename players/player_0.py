@@ -8,10 +8,10 @@ class Player:
     name: str = "Topone"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
-        if (turn_index==1) :
+        if (turn_index==0) :
             return Action.CHEAT
         else :
-            if (Turn.oponent_action[turn_index-1] == Action.CHEAT) :
+            if (Turn.opponent_action[turn_index-1] == Action.CHEAT) :
                 return Action.CHEAT
             else :
                 return Action.COOPERATE
