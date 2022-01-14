@@ -8,7 +8,6 @@ class Player:
     name: str = "Topone"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
-        return Action.COOPERATE
         if (turn_index==1) :
             return Action.CHEAT
         else :
