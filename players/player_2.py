@@ -20,6 +20,4 @@ class Player:
                 return Action.CHEAT
             if coop_count == 1:
                 return Action.COOPERATE
-            else:
-                doom = True
         return Action.COOPERATE
