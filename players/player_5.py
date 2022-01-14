@@ -14,6 +14,9 @@ class Player:
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
         win: int = 0
         lose: int = 0
+            
+        if opponent.name == "Bojji":
+            return Action.COOPERATE
         
         if turn_index == 0:
             return Action.COOPERATE if randint(0,1) == 1 else Action.CHEAT
