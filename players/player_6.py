@@ -11,7 +11,7 @@ class Player:
         have_cheat : bool = False
         if(turn_index >= 1):
             for i in history:
-                if(i["opponent_action"] ==  Action.CHEAT):                   
+                if(i["opponent_action"] == Action.CHEAT):                   
                     have_cheat = True
         if(turn_index == 9):
             return Action.CHEAT
