@@ -1,5 +1,5 @@
 from defs import Action, Turn
-
+import random
 class Player:
     gain: int = 0
     turn_gain: int = 0
@@ -8,4 +8,5 @@ class Player:
     name: str = "Player 7"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
-        return Action.COOPERATE
+        liste = [Action.COOPERATE, Action.CHEAT]
+        return random.choice(liste)
