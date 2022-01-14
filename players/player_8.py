@@ -8,10 +8,11 @@ class Player:
     name: str = "Colsplif"
 
     def __init__(self):
+        self.tonicTurn = 0
         pass
 
     def play(self, turn_index: int, history: list[Turn], opponent) -> Action:
-        if opponent.name == "YELLOW APPLE" or opponent.name == "Cooplease":
+        if opponent.name == "Cooplease":
             return self.classic(history)
         elif opponent.name == "Rats" or opponent.name == "Bojji":
             return Action.CHEAT
@@ -20,13 +21,18 @@ class Player:
                 return Action.CHEAT
             else:
                 return self.classic(history)
-        elif opponent.name == "Maxwelle":
-            if turn_index == 0:
+        elif opponent.name == "Maxwelle" and turn_index == 0:
+            return Action.COOPERATE
+        elif opponent.name == "Tonic":
+            self.tonicTurn += 1
+            for turn in history:
+                if turn["opponent_action"] == Action.CHEAT:
+                    return Action.CHEAT
+            if self.tonicTurn % 2 == 1:
                 return Action.COOPERATE
-            elif turn_index == 9:
-                return Action.CHEAT
             else:
-                return self.classic(history)
+                return Action.CHEAT
+            
 
         if turn_index == 9:
             return Action.CHEAT
