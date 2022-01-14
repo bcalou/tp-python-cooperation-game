@@ -1,4 +1,5 @@
 from defs import Action, Turn
+from random import randint
 
 class Player:
     gain: int = 0
@@ -8,7 +9,21 @@ class Player:
     name: str = "Maxwelle"
 
     def play(turn_index: int, history: list[Turn]) -> Action:
-        if turn_index%2==0:
+        win: int = 0
+        lose: int = 0
+        
+        if turn_index == 0:
+            return Action.COOPERATE if randint(0,1) == 1 else Action.CHEAT
+          
+        for turn in history:
+            if turn[opponent_action] == Action.CHEAT and turn[self_action] == Action.COOPERATE:
+                lose +=1
+            elif turn[self_action] == Action.CHEAT and turn[opponent_action] == Action.COOPERATE:
+                win +=1
+            
+        if win > lose:
             return Action.COOPERATE
-        else:
+        elif lose > win:
             return Action.CHEAT
+        else:
+            return Action.COOPERATE
