@@ -2,6 +2,8 @@
 
 Chaque joueur a le droit de modifier le fichier qui lui est attribué dans le dossier `cooperation/players`.
 
+**Vous n'avez pas le droit de modifier votre variable de nom**.
+
 ## Méthode `play()`
 
 La première chose à faire est de surcharger la méthode `play`, définie par la classe parente `Player`. Par défaut, la méthode résulte en une coopération systématique.
@@ -19,7 +21,7 @@ def play(self, opponent: 'Player') -> Action:
     return Action.CHEAT
 ```
 
-**Seule cette fonction peut-être étendue**. Vous avez le droit de créer de nouvelles fonctions pour les appeler à partir de la fonction `play`.
+**Seule cette fonction peut être étendue**. Vous avez le droit de créer de nouvelles fonctions pour les appeler à partir de la fonction `play`.
 
 **Si votre méthode génère une erreur, la coopération est le résultat par défaut**.
 
@@ -29,7 +31,7 @@ Amasser le plus de gain en choisissant les actions les plus judicieuses.
 
 À chaque manche, chaque joueur rencontre tous les autres. Une rencontre est constituée d'une série de 10 duels.
 
-Autrement dit, la méthode play de chaque joueur sera appelée 10 fois avec chaque adversaire.
+Autrement dit, la méthode `play` de chaque joueur sera appelée 10 fois avec chaque adversaire.
 
 À chaque tour :
 - Si les deux joueurs coopèrent, ils gagnent **2 pièces** chacun
@@ -58,6 +60,8 @@ La fois suivante, il contient les décisions prises par vous et votre adversaire
     }
 ]
 ```
+
+Au dernier tour, il contient les décisions prises aux 9 tours précédents.
 
 ### `self._say()`
 
