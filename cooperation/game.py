@@ -1,5 +1,6 @@
 import random
 import time
+import pygame
 from cooperation.player import Player
 from cooperation.display import Display
 from cooperation.log import Log
@@ -32,7 +33,6 @@ class Game:
         """Make two player fight for N turn"""
         self._log.add("\n==================================================")
         self._log.add(f"{player_a.NAME} VS {player_b.NAME}")
-        self._log.add("==================================================")
 
         player_a.prepare_new_fight()
         player_b.prepare_new_fight()
@@ -44,6 +44,7 @@ class Game:
 
             self._display.update([player_a, player_b])
             time.sleep(self.WAIT_BETWEEN_TURNS)
+            pygame.event.pump()
 
     def _fight_turn(self, player_a: Player, player_b: Player):
         """Compare both player actions for a turn"""
