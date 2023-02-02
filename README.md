@@ -8,7 +8,6 @@ Chaque joueur a le droit de modifier le fichier qui lui est attribué dans le do
 
 La première chose à faire est de surcharger la méthode `play`, définie par la classe parente `Player`. Par défaut, la méthode résulte en une coopération systématique.
 
-
 ```py
 def play(self, opponent: 'Player') -> Action:
     return Action.COOPERATE
@@ -34,6 +33,7 @@ Amasser le plus de gain en choisissant les actions les plus judicieuses.
 Autrement dit, la méthode `play` de chaque joueur sera appelée 10 fois avec chaque adversaire.
 
 À chaque tour :
+
 - Si les deux joueurs coopèrent, ils gagnent **2 pièces** chacun
 - Si les deux joueurs trichent, ils ne gagnent rien
 - Si un joueur triche tandis que l'autre coopère, le tricheur gagne **3 pièces** et l'autre joueur perd **une pièce**
