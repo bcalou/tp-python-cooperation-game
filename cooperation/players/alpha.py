@@ -7,15 +7,21 @@ import time
 class Alpha(Player):
     NAME = "Colin"
     _turn: int = 0
+    _opponent_is_traitor: bool = False
 
 
     def play(self, opponent: str) -> Action:
         self._turn += 1
 
-        if self._turn == 1:
+        if len(self._fight_history) == 0:
+            self._opponent_is_traitor = False
             return Action.COOPERATE
-        else:
-            return Action.COOPERATE if self._fight_history[-1]['opponent_action'] == Action.CHEAT else Action.CHEAT
+        
+        if self._fight_history[-1]['opponent_action'] == Action.CHEAT:
+            self._say("You bitch !")
+            self._opponent_is_traitor = True
+
+        return Action.CHEAT if self._opponent_is_traitor else Action.COOPERATE
 
 
 
