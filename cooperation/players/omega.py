@@ -6,11 +6,11 @@ class Omega(Player):
     NAME = "Antoine"
 
     _action: Action = Action.COOPERATE
-    _current_opponent: Player = ""
+    _current_opponent: str = ""
     _current_turn: int = -1
     _opponent_previous_actions: list[int] = []
 
-    def play(self, opponent: 'Player') -> Action:
+    def play(self, opponent: str) -> Action:
 
         self._current_turn += 1
 
@@ -24,7 +24,7 @@ class Omega(Player):
             opponent_previous_action = self._get_previous_opponent_action()
             self._fill_opponent_actions_list(opponent_previous_action)
 
-            if self._average_opponent_action() >= 0.75:
+            if self._average_opponent_action() >= 0.80:
                 return Action.COOPERATE
             else:
                 return Action.CHEAT
