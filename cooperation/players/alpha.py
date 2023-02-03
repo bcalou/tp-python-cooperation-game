@@ -12,7 +12,7 @@ class Alpha(Player):
     def play(self, opponent: str) -> Action:
         self._turn += 1
 
-        if self._turn == 1:
+        if self._turn == 1 or len(self._fight_history) == 0:
             return Action.COOPERATE
         else:
             return Action.COOPERATE if self._fight_history[-1]['opponent_action'] == Action.CHEAT else Action.CHEAT
