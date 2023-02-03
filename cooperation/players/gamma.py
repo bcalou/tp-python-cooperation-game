@@ -15,7 +15,8 @@ class Gamma(Player):
     }
 
     def play(self, opponent: str ) -> Action:
-
+        print("self.friendly[opponent]", self.friendly[opponent])
+        print("opponent", opponent)
         if len(self._fight_history) == 0: 
             if self.friendly[opponent]:
                 return Action.COOPERATE
