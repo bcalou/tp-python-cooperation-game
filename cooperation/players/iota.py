@@ -7,6 +7,8 @@ class Iota(Player):
     NAME = "Lucas"
     turn = 0
 
+    d_players: dict[str, Player]= {}
+
     def play(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
         
@@ -21,17 +23,17 @@ class Iota(Player):
         
         from cooperation.players import alpha, beta, gamma, delta, kappa, omega, sigma
 
-        faux_log = Log()
-        d_players: dict[str, Player]= {}
-        d_players[alpha.Alpha.NAME] = alpha.Alpha(faux_log)
-        d_players[beta.Beta.NAME] = beta.Beta(faux_log)
-        d_players[gamma.Gamma.NAME] = gamma.Gamma(faux_log)
-        d_players[delta.Delta.NAME] = delta.Delta(faux_log)
-        d_players[kappa.Kappa.NAME] = kappa.Kappa(faux_log)
-        d_players[omega.Omega.NAME] = omega.Omega(faux_log)
-        d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
+        faux_log: Log = Log()
+        if self.turn == 0:
+            self.d_players[alpha.Alpha.NAME] = alpha.Alpha(faux_log)
+            self.d_players[beta.Beta.NAME] = beta.Beta(faux_log)
+            self.d_players[gamma.Gamma.NAME] = gamma.Gamma(faux_log)
+            self.d_players[delta.Delta.NAME] = delta.Delta(faux_log)
+            self.d_players[kappa.Kappa.NAME] = kappa.Kappa(faux_log)
+            self.d_players[omega.Omega.NAME] = omega.Omega(faux_log)
+            self.d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
 
-        if opponent in d_players:
-            return d_players[opponent].play(self.NAME)
+        if opponent in self.d_players:
+            return self.d_players[opponent].play(self.NAME)
         else:
             return Action.CHEAT
