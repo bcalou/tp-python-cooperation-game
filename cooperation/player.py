@@ -10,7 +10,7 @@ class Player():
         self.score = 0
         self._log = log
         self._game_history = []
-        self._fight_history = []
+        self._fight_history: list[dict[str, Action]] = []
 
     def prepare_new_fight(self):
         """Clear the fight history"""
