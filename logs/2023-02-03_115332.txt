@@ -1,0 +1,91 @@
+
+
+==================================================
+Antoine VS Wilfried
+
+ROUND 1
+Wilfried a trahi Antoine !
+Wilfried gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 2
+Antoine a trahi Wilfried !
+Antoine gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 3
+Antoine et Wilfried ont triché...
+
+ROUND 4
+Antoine et Wilfried ont triché...
+
+ROUND 5
+Antoine et Wilfried ont triché...
+
+ROUND 6
+Antoine et Wilfried ont triché...
+
+ROUND 7
+Antoine et Wilfried ont triché...
+
+ROUND 8
+Antoine et Wilfried ont triché...
+
+ROUND 9
+Antoine et Wilfried ont triché...
+
+ROUND 10
+Antoine et Wilfried ont triché...
+
+==================================================
+Antoine VS Pierre-Baptiste
+
+ROUND 1
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 2
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 3
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 4
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 5
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 6
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 7
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 8
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 9
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 10
+Antoine et Pierre-Baptiste coopèrent
+Antoine gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)

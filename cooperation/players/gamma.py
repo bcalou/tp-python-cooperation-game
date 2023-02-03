@@ -15,6 +15,7 @@ class Gamma(Player):
     }
 
     def play(self, opponent: str) -> Action:
+
         if len(self._fight_history) == 0:
             if self.friendly[opponent]:
                 return Action.COOPERATE
@@ -22,7 +23,7 @@ class Gamma(Player):
                 return Action.CHEAT
 
         if len(self._fight_history) == 9: 
-            self._say("Déso, pas déso !")
+            self._say("Allé, salut looser ! Gnihihihihihihi")
             return Action.CHEAT
 
         elif self.friendly[opponent] and self._fight_history[-1]["opponent_action"] == Action.CHEAT:
