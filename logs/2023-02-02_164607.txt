@@ -1,0 +1,1046 @@
+
+
+==================================================
+Pierre VS Ewen
+
+ROUND 1
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 2
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 3
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 4
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 5
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 6
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 7
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 8
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 9
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 10
+Pierre et Ewen coopèrent
+Pierre gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+==================================================
+Pierre VS Antoine
+
+ROUND 1
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 2
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 3
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 4
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 5
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 6
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 7
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 8
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 9
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 10
+Pierre et Antoine coopèrent
+Pierre gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+==================================================
+Pierre VS Wilfried
+
+ROUND 1
+Pierre et Wilfried coopèrent
+Pierre gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 2
+Wilfried a trahi Pierre !
+Wilfried gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 3
+Pierre et Wilfried coopèrent
+Pierre gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 4
+Wilfried a trahi Pierre !
+Wilfried gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 5
+Pierre et Wilfried coopèrent
+Pierre gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 6
+Wilfried a trahi Pierre !
+Wilfried gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 7
+Pierre et Wilfried coopèrent
+Pierre gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 8
+Wilfried a trahi Pierre !
+Wilfried gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 9
+Pierre et Wilfried coopèrent
+Pierre gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 10
+Wilfried a trahi Pierre !
+Wilfried gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+==================================================
+Pierre VS Lucas
+
+ROUND 1
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 2
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 3
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 4
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 5
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 6
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 7
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 8
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 9
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 10
+Lucas a trahi Pierre !
+Lucas gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+==================================================
+Pierre VS Colin
+
+ROUND 1
+Pierre et Colin coopèrent
+Pierre gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 2
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 3
+Pierre et Colin coopèrent
+Pierre gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 4
+Pierre et Colin coopèrent
+Pierre gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 5
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 6
+Pierre et Colin coopèrent
+Pierre gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 7
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 8
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 9
+Pierre et Colin coopèrent
+Pierre gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 10
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+==================================================
+Pierre VS Jame
+
+ROUND 1
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 2
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 3
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 4
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 5
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 6
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 7
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 8
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 9
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 10
+Jame a trahi Pierre !
+Jame gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+==================================================
+Ewen VS Antoine
+
+ROUND 1
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 2
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 3
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 4
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 5
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 6
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 7
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 8
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 9
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 10
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+==================================================
+Ewen VS Wilfried
+
+ROUND 1
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 2
+Wilfried a trahi Ewen !
+Wilfried gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 3
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 4
+Wilfried a trahi Ewen !
+Wilfried gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 5
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 6
+Wilfried a trahi Ewen !
+Wilfried gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 7
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 8
+Wilfried a trahi Ewen !
+Wilfried gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 9
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 10
+Wilfried a trahi Ewen !
+Wilfried gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Ewen VS Lucas
+
+ROUND 1
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 2
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 3
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 4
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 5
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 6
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 7
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 8
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 9
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 10
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Ewen VS Colin
+
+ROUND 1
+Ewen et Colin coopèrent
+Ewen gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 2
+Colin a trahi Ewen !
+Colin gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 3
+Colin a trahi Ewen !
+Colin gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 4
+Ewen et Colin coopèrent
+Ewen gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 5
+Ewen et Colin coopèrent
+Ewen gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 6
+Ewen et Colin coopèrent
+Ewen gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 7
+Colin a trahi Ewen !
+Colin gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 8
+Ewen et Colin coopèrent
+Ewen gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 9
+Colin a trahi Ewen !
+Colin gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 10
+Colin a trahi Ewen !
+Colin gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Ewen VS Jame
+
+ROUND 1
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 2
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 3
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 4
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 5
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 6
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 7
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 8
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 9
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 10
+Jame a trahi Ewen !
+Jame gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Antoine VS Wilfried
+
+ROUND 1
+Antoine et Wilfried coopèrent
+Antoine gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 2
+Wilfried a trahi Antoine !
+Wilfried gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 3
+Antoine et Wilfried coopèrent
+Antoine gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 4
+Wilfried a trahi Antoine !
+Wilfried gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 5
+Antoine et Wilfried coopèrent
+Antoine gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 6
+Wilfried a trahi Antoine !
+Wilfried gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 7
+Antoine et Wilfried coopèrent
+Antoine gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 8
+Wilfried a trahi Antoine !
+Wilfried gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 9
+Antoine et Wilfried coopèrent
+Antoine gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 10
+Wilfried a trahi Antoine !
+Wilfried gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+==================================================
+Antoine VS Lucas
+
+ROUND 1
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 2
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 3
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 4
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 5
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 6
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 7
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 8
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 9
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 10
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+==================================================
+Antoine VS Colin
+
+ROUND 1
+Antoine et Colin coopèrent
+Antoine gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 2
+Antoine et Colin coopèrent
+Antoine gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 3
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 4
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 5
+Antoine et Colin coopèrent
+Antoine gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 6
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 7
+Antoine et Colin coopèrent
+Antoine gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 8
+Antoine et Colin coopèrent
+Antoine gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 9
+Antoine et Colin coopèrent
+Antoine gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 10
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+==================================================
+Antoine VS Jame
+
+ROUND 1
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 2
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 3
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 4
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 5
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 6
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 7
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 8
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 9
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 10
+Jame a trahi Antoine !
+Jame gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+==================================================
+Wilfried VS Lucas
+
+ROUND 1
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 2
+Wilfried et Lucas ont triché...
+
+ROUND 3
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 4
+Wilfried et Lucas ont triché...
+
+ROUND 5
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 6
+Wilfried et Lucas ont triché...
+
+ROUND 7
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 8
+Wilfried et Lucas ont triché...
+
+ROUND 9
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 10
+Wilfried et Lucas ont triché...
+
+==================================================
+Wilfried VS Colin
+
+ROUND 1
+Colin a trahi Wilfried !
+Colin gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 2
+Wilfried et Colin ont triché...
+
+ROUND 3
+Wilfried et Colin coopèrent
+Wilfried gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 4
+Wilfried et Colin ont triché...
+
+ROUND 5
+Colin a trahi Wilfried !
+Colin gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 6
+Wilfried et Colin ont triché...
+
+ROUND 7
+Wilfried et Colin coopèrent
+Wilfried gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 8
+Wilfried a trahi Colin !
+Wilfried gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 9
+Wilfried et Colin coopèrent
+Wilfried gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 10
+Wilfried et Colin ont triché...
+
+==================================================
+Wilfried VS Jame
+
+ROUND 1
+Jame a trahi Wilfried !
+Jame gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 2
+Wilfried et Jame ont triché...
+
+ROUND 3
+Jame a trahi Wilfried !
+Jame gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 4
+Wilfried et Jame ont triché...
+
+ROUND 5
+Jame a trahi Wilfried !
+Jame gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 6
+Wilfried et Jame ont triché...
+
+ROUND 7
+Jame a trahi Wilfried !
+Jame gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 8
+Wilfried et Jame ont triché...
+
+ROUND 9
+Jame a trahi Wilfried !
+Jame gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 10
+Wilfried et Jame ont triché...
+
+==================================================
+Lucas VS Colin
+
+ROUND 1
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 2
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 3
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 4
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 5
+Lucas et Colin ont triché...
+
+ROUND 6
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 7
+Lucas et Colin ont triché...
+
+ROUND 8
+Lucas et Colin ont triché...
+
+ROUND 9
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 10
+Lucas et Colin ont triché...
+
+==================================================
+Lucas VS Jame
+
+ROUND 1
+Lucas et Jame ont triché...
+
+ROUND 2
+Lucas et Jame ont triché...
+
+ROUND 3
+Lucas et Jame ont triché...
+
+ROUND 4
+Lucas et Jame ont triché...
+
+ROUND 5
+Lucas et Jame ont triché...
+
+ROUND 6
+Lucas et Jame ont triché...
+
+ROUND 7
+Lucas et Jame ont triché...
+
+ROUND 8
+Lucas et Jame ont triché...
+
+ROUND 9
+Lucas et Jame ont triché...
+
+ROUND 10
+Lucas et Jame ont triché...
+
+==================================================
+Colin VS Jame
+
+ROUND 1
+Colin et Jame ont triché...
+
+ROUND 2
+Colin et Jame ont triché...
+
+ROUND 3
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 4
+Colin et Jame ont triché...
+
+ROUND 5
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 6
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 7
+Colin et Jame ont triché...
+
+ROUND 8
+Colin et Jame ont triché...
+
+ROUND 9
+Colin et Jame ont triché...
+
+ROUND 10
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)

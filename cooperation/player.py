@@ -1,4 +1,4 @@
-from cooperation.types import Action
+from cooperation.types import Action, Turn
 from cooperation.log import Log
 import random
 
@@ -9,8 +9,8 @@ class Player():
     def __init__(self, log: Log):
         self.score = 0
         self._log = log
-        self._game_history = []
-        self._fight_history: list[dict[str, Action]] = []
+        self._game_history: list[Turn] = []
+        self._fight_history: list[Turn] = []
 
     def prepare_new_fight(self):
         """Clear the fight history"""
@@ -43,7 +43,7 @@ class Player():
 
     def save_turn(self, self_action: Action, opponent_action: Action):
         """Store the given action in the fight history"""
-        turn = {
+        turn: Turn = {
             "self_action": self_action,
             "opponent_action": opponent_action
         }
