@@ -1,0 +1,351 @@
+
+
+==================================================
+Lucas VS Jame
+
+ROUND 1
+Jame a trahi Lucas !
+Jame gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 2
+Lucas et Jame ont triché...
+
+ROUND 3
+Lucas et Jame ont triché...
+
+ROUND 4
+Lucas et Jame ont triché...
+
+ROUND 5
+Lucas et Jame ont triché...
+
+ROUND 6
+Lucas et Jame ont triché...
+
+ROUND 7
+Lucas et Jame ont triché...
+
+ROUND 8
+Lucas et Jame ont triché...
+
+ROUND 9
+Lucas et Jame ont triché...
+
+ROUND 10
+Lucas et Jame ont triché...
+
+==================================================
+Lucas VS Colin
+
+ROUND 1
+Lucas et Colin coopèrent
+Lucas gagne 2 pièce(s)
+Colin gagne 2 pièce(s)
+
+ROUND 2
+Colin a trahi Lucas !
+Colin gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 3
+Lucas et Colin ont triché...
+
+ROUND 4
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 5
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 6
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 7
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 8
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 9
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 10
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+==================================================
+Lucas VS Ewen
+
+ROUND 1
+Lucas et Ewen coopèrent
+Lucas gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 2
+Ewen dit: *serre la main*
+Lucas et Ewen coopèrent
+Lucas gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 3
+Ewen dit: *serre la main*
+Lucas et Ewen coopèrent
+Lucas gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 4
+Ewen dit: *serre la main*
+Lucas et Ewen coopèrent
+Lucas gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 5
+Ewen dit: *serre la main*
+Lucas et Ewen coopèrent
+Lucas gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 6
+Ewen dit: *serre la main*
+Lucas et Ewen coopèrent
+Lucas gagne 2 pièce(s)
+Ewen gagne 2 pièce(s)
+
+ROUND 7
+Ewen dit: *serre la main*
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 8
+Ewen dit: *serre la main*
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 9
+Ewen dit: *serre la main*
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 10
+Ewen dit: *serre la main*
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Lucas VS Pierre
+
+ROUND 1
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Pierre a trahi Lucas !
+Pierre gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 2
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 3
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 4
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 5
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 6
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 7
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 8
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 9
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+ROUND 10
+Pierre dit: Pour toujours avoir triché lors de la dernière partie
+Lucas et Pierre ont triché...
+
+==================================================
+Lucas VS Antoine
+
+ROUND 1
+Antoine a trahi Lucas !
+Antoine gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 2
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 3
+Lucas a trahi Antoine !
+Lucas gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 4
+Lucas et Antoine ont triché...
+
+ROUND 5
+Lucas et Antoine ont triché...
+
+ROUND 6
+Lucas et Antoine ont triché...
+
+ROUND 7
+Lucas et Antoine ont triché...
+
+ROUND 8
+Lucas et Antoine ont triché...
+
+ROUND 9
+Lucas et Antoine ont triché...
+
+ROUND 10
+Lucas et Antoine ont triché...
+
+==================================================
+Lucas VS Pierre-Baptiste
+
+ROUND 1
+Lucas et Pierre-Baptiste coopèrent
+Lucas gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 2
+Lucas et Pierre-Baptiste coopèrent
+Lucas gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 3
+Lucas et Pierre-Baptiste coopèrent
+Lucas gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 4
+Lucas et Pierre-Baptiste coopèrent
+Lucas gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 5
+Lucas et Pierre-Baptiste coopèrent
+Lucas gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 6
+Lucas et Pierre-Baptiste coopèrent
+Lucas gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 7
+Lucas a trahi Pierre-Baptiste !
+Lucas gagne 3 pièce(s)
+Pierre-Baptiste perd 1 pièce(s)
+
+ROUND 8
+Pierre-Baptiste dit: On peut tromper 1 fois 1 personne
+Lucas et Pierre-Baptiste ont triché...
+
+ROUND 9
+Pierre-Baptiste dit: Mais pas 1000 fois 1000 personnes
+Lucas et Pierre-Baptiste ont triché...
+
+ROUND 10
+Pierre-Baptiste dit: Mais pas 1000 fois 1000 personnes
+Lucas et Pierre-Baptiste ont triché...
+
+==================================================
+Lucas VS Wilfried
+
+ROUND 1
+Wilfried dit: Be sure who's your partner ;)
+Lucas et Wilfried coopèrent
+Lucas gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 2
+Wilfried dit: Be sure who's your partner ;)
+Lucas et Wilfried coopèrent
+Lucas gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 3
+Wilfried dit: Be sure who's your partner ;)
+Lucas et Wilfried coopèrent
+Lucas gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 4
+Wilfried dit: Be sure who's your partner ;)
+Lucas et Wilfried coopèrent
+Lucas gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 5
+Wilfried dit: Be sure who's your partner ;)
+Lucas et Wilfried coopèrent
+Lucas gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 6
+Wilfried dit: Be sure who's your partner ;)
+Lucas et Wilfried coopèrent
+Lucas gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 7
+Wilfried dit: Be sure who's your partner ;)
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 8
+Wilfried dit: Be sure who's your partner ;)
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 9
+Wilfried dit: Be sure who's your partner ;)
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+ROUND 10
+Wilfried dit: Be sure who's your partner ;)
+Lucas a trahi Wilfried !
+Lucas gagne 3 pièce(s)
+Wilfried perd 1 pièce(s)
+
+==================================================
+Jame VS Colin
+
+ROUND 1

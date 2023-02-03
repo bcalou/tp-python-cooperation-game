@@ -65,7 +65,7 @@ class Game:
         """Get the action for the given player, defaulting to cooperation"""
         try:
             return player.play(opponent.NAME)
-        except ValueError:
+        except:
             self._log.add(f"Erreur d'éxecution pour {player.NAME}")
             return Action.COOPERATE
 
