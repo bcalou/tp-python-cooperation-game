@@ -3,7 +3,7 @@ from datetime import datetime
 
 class Log:
     def __init__(self):
-        self._filename = f"logs/{datetime.now().strftime('%Y-%m-%d_%H:%M:%S')}"
+        self._filename = f"logs/{datetime.now().strftime('%Y-%m-%d_%H%M%S')}"
 
     def get_filename(self):
         return self._filename
