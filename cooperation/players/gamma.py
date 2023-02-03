@@ -15,16 +15,19 @@ class Gamma(Player):
     }
 
     def play(self, opponent: Player, ) -> Action:
-        if len(self._fight_history)%10 == 0: 
+        print(opponent.NAME)
+        return Action.CHEAT
+        
+        """if len(self._fight_history)%10 == 0: 
             if self.friendly[opponent.NAME]:
                 return Action.COOPERATE
             else :
                 return Action.CHEAT
 
-        elif self._fight_history[-1].opponent_action == Action.CHEAT:
+        elif self._fight_history[-1] == Action.CHEAT:
             self.friendly[opponent.NAME] = False
 
         if self.friendly[opponent.NAME]:
             return Action.COOPERATE
         else :
-            return Action.CHEAT
+            return Action.CHEAT"""
