@@ -16,4 +16,9 @@ class Beta(Player):
             if last_oponent_action == Action.CHEAT:
                 cheat_ratio += 1
 
+        fight_number = len(self._fight_history) + 1
+
+        if fight_number == 10:
+            print(f"Good Game {opponent} see you next time")
+
         return Action.COOPERATE if cheat_ratio > 0 else Action.CHEAT
