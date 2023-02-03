@@ -21,7 +21,7 @@ class Gamma(Player):
             else :
                 return Action.CHEAT
 
-        elif self._fight_history[-1]["opponent_action"] == Action.CHEAT:
+        elif self.friendly[opponent] and self._fight_history[-1]["opponent_action"] == Action.CHEAT:
             self._say("Ah batard, tu triches !")
             self.friendly[opponent] = False
 
