@@ -4,18 +4,26 @@ from cooperation.player import Player
 
 
 class Iota(Player):
-    NAME = "Lucas"
-    turn = 0
+    NAME: str = "Lucas"
+    banned: list[str] = []
 
     d_players: dict[str, Player]= {}
 
     def play(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
-        
-        Iota.turn += 1
 
-        if(Iota.turn <= 3): # Faire croire qu'on coopère au début
+        # Système de bannissement
+        if len(self._fight_history) > 0:
+            last_turn = self._fight_history[-1]
+            if last_turn["opponent_action"] == Action.CHEAT:
+                self.banned.append(opponent)
+
+        if opponent in self.banned:
+            return Action.CHEAT
+
+        if len(self._fight_history) <= 5: # Faire croire qu'on coopère au début
             return Action.COOPERATE
+
         return Action.CHEAT
 
     def triche(self, opponent: str) -> Action:
@@ -30,7 +38,7 @@ class Iota(Player):
         from cooperation.players import alpha, beta, gamma, delta, kappa, omega, sigma
 
         faux_log: Log = Log()
-        if self.turn == 0:
+        if (self._fight_history) == 0:
             self.d_players[alpha.Alpha.NAME] = alpha.Alpha(faux_log)
             self.d_players[beta.Beta.NAME] = beta.Beta(faux_log)
             self.d_players[gamma.Gamma.NAME] = gamma.Gamma(faux_log)
@@ -43,6 +51,6 @@ class Iota(Player):
         self._say(f"{opponent} va jouer {action}. Je suis ma stratégie")
 
         if opponent in self.d_players:
-            return action if self.turn < 3 else Action.CHEAT
+            return action if len(self._fight_history) < 3 else Action.CHEAT
         else:
             return Action.CHEAT
