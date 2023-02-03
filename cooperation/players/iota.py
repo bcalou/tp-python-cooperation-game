@@ -14,7 +14,7 @@ class Iota(Player):
         
         Iota.turn += 1
 
-        if(Iota.turn <= 3):
+        if(Iota.turn <= 3): # Faire croire qu'on coopère au début
             return Action.COOPERATE
         return Action.CHEAT
 
@@ -40,9 +40,9 @@ class Iota(Player):
             self.d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
 
         action: Action = self.d_players[opponent].play(self.NAME)
-        self._say(f"Bah alors {opponent}, tu joues {action}")
+        self._say(f"{opponent} va jouer {action}. Je suis ma stratégie")
 
         if opponent in self.d_players:
-            return action
+            return action if self.turn < 3 else Action.CHEAT
         else:
             return Action.CHEAT
