@@ -22,7 +22,7 @@ class Sigma(Player):
             if fight['opponent_action'] == Action.CHEAT:
                 cheat_percenatage += 10
 
-        if cheat_percenatage > 30:
+        if cheat_percenatage > 40:
             return Action.CHEAT
         else:
             return Action.COOPERATE
