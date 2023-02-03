@@ -1,5 +1,6 @@
 from cooperation.types import Action
 from cooperation.player import Player
+import random
 
 
 class Delta(Player):
@@ -7,7 +8,6 @@ class Delta(Player):
 
     def play(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
+        arr = [Action.CHEAT, Action.COOPERATE]
 
-        self._say("Be sure who's your partner ;)")
-
-        return Action.COOPERATE if opponent == "Lucas" or opponent == "Jame" else Action.CHEAT
+        return random.choice(arr)
