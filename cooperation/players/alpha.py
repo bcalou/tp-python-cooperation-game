@@ -15,7 +15,7 @@ class Alpha(Player):
         if self._turn == 1:
             return Action.COOPERATE
         else:
-            return Action.COOPERATE if self._fight_history[-1]['opponent_action'] == Action.CHEAT else Action.COOPERATE
+            return Action.COOPERATE if self._fight_history[-1]['opponent_action'] == Action.CHEAT else Action.CHEAT
 
 
 
