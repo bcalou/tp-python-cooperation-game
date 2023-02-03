@@ -1,0 +1,271 @@
+
+
+==================================================
+Ewen VS Pierre
+
+ROUND 1
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 2
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 3
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 4
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 5
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 6
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 7
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 8
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 9
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 10
+Pierre a trahi Ewen !
+Pierre gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Ewen VS Antoine
+
+ROUND 1
+Antoine a trahi Ewen !
+Antoine gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 2
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 3
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 4
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 5
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 6
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 7
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 8
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 9
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 10
+Ewen et Antoine coopèrent
+Ewen gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+==================================================
+Ewen VS Lucas
+
+ROUND 1
+Ewen et Lucas coopèrent
+Ewen gagne 2 pièce(s)
+Lucas gagne 2 pièce(s)
+
+ROUND 2
+Ewen et Lucas coopèrent
+Ewen gagne 2 pièce(s)
+Lucas gagne 2 pièce(s)
+
+ROUND 3
+Ewen et Lucas coopèrent
+Ewen gagne 2 pièce(s)
+Lucas gagne 2 pièce(s)
+
+ROUND 4
+Ewen et Lucas coopèrent
+Ewen gagne 2 pièce(s)
+Lucas gagne 2 pièce(s)
+
+ROUND 5
+Ewen et Lucas coopèrent
+Ewen gagne 2 pièce(s)
+Lucas gagne 2 pièce(s)
+
+ROUND 6
+Ewen et Lucas coopèrent
+Ewen gagne 2 pièce(s)
+Lucas gagne 2 pièce(s)
+
+ROUND 7
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 8
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 9
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+ROUND 10
+Lucas a trahi Ewen !
+Lucas gagne 3 pièce(s)
+Ewen perd 1 pièce(s)
+
+==================================================
+Ewen VS Pierre-Baptiste
+
+ROUND 1
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 2
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 3
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 4
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 5
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 6
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 7
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 8
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 9
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 10
+Ewen et Pierre-Baptiste coopèrent
+Ewen gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+==================================================
+Ewen VS Wilfried
+
+ROUND 1
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 2
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 3
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 4
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 5
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 6
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 7
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 8
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 9
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+ROUND 10
+Ewen et Wilfried coopèrent
+Ewen gagne 2 pièce(s)
+Wilfried gagne 2 pièce(s)
+
+==================================================
+Ewen VS Jame
+
+ROUND 1
