@@ -10,7 +10,7 @@ class Iota(Player):
 
     d_players: dict[str, Player]= {}
 
-    def play(self, opponent: str) -> Action:
+    def triche(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
 
         # Système de bannissement
@@ -27,7 +27,7 @@ class Iota(Player):
 
         return Action.CHEAT
 
-    def triche(self, opponent: str) -> Action:
+    def play(self, opponent: str) -> Action:
         """Avec cette méthode, je prévois l'action de mon adversaire, et je joue
         comme lui. La coopération fait avancer tout le monde, mais la seule
         réponse à la triche est la triche.
@@ -39,7 +39,7 @@ class Iota(Player):
         from cooperation.players import alpha, beta, gamma, delta, kappa, omega, sigma
 
         faux_log: Log = Log()
-        if (self._fight_history) == 0:
+        if len(self._fight_history) == 0:
             self.d_players[alpha.Alpha.NAME] = alpha.Alpha(faux_log)
             self.d_players[beta.Beta.NAME] = beta.Beta(faux_log)
             self.d_players[gamma.Gamma.NAME] = gamma.Gamma(faux_log)
@@ -48,15 +48,6 @@ class Iota(Player):
             self.d_players[omega.Omega.NAME] = omega.Omega(faux_log)
             self.d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
 
-        
-        # Système de bannissement
-        if len(self._fight_history) > 0:
-            last_turn = self._fight_history[-1]
-            if last_turn["opponent_action"] == Action.CHEAT:
-                self.banned.append(opponent)
-
-        if opponent in self.banned:
-            return Action.CHEAT
 
         if len(self._fight_history) > 5: # Faire croire qu'on coopère au début
             return Action.CHEAT
