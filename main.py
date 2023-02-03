@@ -34,9 +34,9 @@ def get_players_list(log: Log) -> list[Player]:
         Gamma(log),
         Delta(log),
         Iota(log),
+        Kappa(log),
         Omega(log),
-        Sigma(log),
-        Kappa(log)
+        Sigma(log)
     ]
 
 
