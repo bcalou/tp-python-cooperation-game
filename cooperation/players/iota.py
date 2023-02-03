@@ -10,7 +10,7 @@ class Iota(Player):
 
     d_players: dict[str, Player]= {}
 
-    def play(self, opponent: str) -> Action:
+    def triche(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
 
         # Système de bannissement
@@ -27,7 +27,7 @@ class Iota(Player):
 
         return Action.COOPERATE
 
-    def triche(self, opponent: str) -> Action:
+    def play(self, opponent: str) -> Action:
         """Avec cette méthode, je prévois l'action de mon adversaire, et je joue
         comme lui. La coopération fait avancer tout le monde, mais la seule
         réponse à la triche est la triche.
