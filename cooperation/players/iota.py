@@ -10,7 +10,7 @@ class Iota(Player):
 
     d_players: dict[str, Player]= {}
 
-    def triche(self, opponent: str) -> Action:
+    def play(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
 
         # Système de bannissement
@@ -25,9 +25,9 @@ class Iota(Player):
         if len(self._fight_history) > 5: # Faire croire qu'on coopère au début
             return Action.CHEAT
 
-        return Action.CHEAT
+        return Action.COOPERATE
 
-    def play(self, opponent: str) -> Action:
+    def triche(self, opponent: str) -> Action:
         """Avec cette méthode, je prévois l'action de mon adversaire, et je joue
         comme lui. La coopération fait avancer tout le monde, mais la seule
         réponse à la triche est la triche.
@@ -48,8 +48,11 @@ class Iota(Player):
             self.d_players[omega.Omega.NAME] = omega.Omega(faux_log)
             self.d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
 
+        # Joueurs qui jouent au hasard :
+        if opponent in [alpha.Alpha.NAME]:
+            return Action.CHEAT # Impossible à prévoir, mais ils jouent sans stratégie
 
-        if len(self._fight_history) > 5: # Faire croire qu'on coopère au début
+        if len(self._fight_history) >= 9: # Faire croire qu'on coopère au début
             return Action.CHEAT
 
         # Le système peu légal :
@@ -57,6 +60,6 @@ class Iota(Player):
         self._say(f"{opponent} va jouer {action}. Je suis ma stratégie")
 
         if opponent in self.d_players:
-            return action if len(self._fight_history) < 3 else Action.CHEAT
+            return action if len(self._fight_history) <=5 else Action.CHEAT
         else:
             return Action.CHEAT
