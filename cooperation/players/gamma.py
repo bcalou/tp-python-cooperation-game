@@ -6,28 +6,28 @@ class Gamma(Player):
     NAME = "Ewen"
     friendly = {
         "Colin" : True,
-        "Jame" : False,
+        "Jame" : True,
         "Wilfried" : True,
-        "Lucas" : False,
+        "Lucas" : True,
         "Pierre-Baptiste" : True,
         "Antoine" : True,
         "Pierre" : True
     }
 
-    def play(self, opponent: Player, ) -> Action:
-        print(opponent.NAME)
-        return Action.CHEAT
-        
-        """if len(self._fight_history)%10 == 0: 
-            if self.friendly[opponent.NAME]:
+    def play(self, opponent: str ) -> Action:
+        if len(self._fight_history) == 0: 
+            if self.friendly[opponent]:
                 return Action.COOPERATE
             else :
                 return Action.CHEAT
 
-        elif self._fight_history[-1] == Action.CHEAT:
-            self.friendly[opponent.NAME] = False
+        elif self.friendly[opponent] and self._fight_history[-1]["opponent_action"] == Action.CHEAT:
+            self._say("Ah batard, tu triches !")
+            self.friendly[opponent] = False
 
-        if self.friendly[opponent.NAME]:
+        if self.friendly[opponent]:
+            self._say("*serre la main*")
             return Action.COOPERATE
         else :
-            return Action.CHEAT"""
+            self._say("Je n'oublie jamais !")
+            return Action.CHEAT

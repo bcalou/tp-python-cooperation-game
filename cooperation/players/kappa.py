@@ -6,7 +6,9 @@ class Kappa(Player):
     NAME = "Pierre-Baptiste"
 
     def play(self, opponent: str):
-        if opponent == "Jame":
+        if opponent == "Jame" or \
+                opponent == "Pierre" or \
+                opponent == "Lucas":
             return Action.CHEAT
 
         number_of_fights_seen = 0

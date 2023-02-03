@@ -5,7 +5,8 @@ from cooperation.player import Player
 
 class Iota(Player):
     NAME: str = "Lucas"
-    banned: list[str] = []
+    # Ton code qui marche pas ça fait 5 fois que tu nous fait le coup
+    banned: list[str] = ["Pierre"]
 
     d_players: dict[str, Player]= {}
 
@@ -21,8 +22,8 @@ class Iota(Player):
         if opponent in self.banned:
             return Action.CHEAT
 
-        if len(self._fight_history) <= 5: # Faire croire qu'on coopère au début
-            return Action.COOPERATE
+        if len(self._fight_history) > 5: # Faire croire qu'on coopère au début
+            return Action.CHEAT
 
         return Action.CHEAT
 
@@ -47,6 +48,20 @@ class Iota(Player):
             self.d_players[omega.Omega.NAME] = omega.Omega(faux_log)
             self.d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
 
+        
+        # Système de bannissement
+        if len(self._fight_history) > 0:
+            last_turn = self._fight_history[-1]
+            if last_turn["opponent_action"] == Action.CHEAT:
+                self.banned.append(opponent)
+
+        if opponent in self.banned:
+            return Action.CHEAT
+
+        if len(self._fight_history) > 5: # Faire croire qu'on coopère au début
+            return Action.CHEAT
+
+        # Le système peu légal :
         action: Action = self.d_players[opponent].play(self.NAME)
         self._say(f"{opponent} va jouer {action}. Je suis ma stratégie")
 
