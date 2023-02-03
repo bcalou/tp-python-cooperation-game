@@ -18,13 +18,13 @@ class Omega(Player):
             # First turn
             self._current_turn = 0
             self._current_opponent = opponent
-            return Action.CHEAT
+            self._opponent_previous_actions = []
+            return Action.CHEAT if opponent == "Pierre" else Action.COOPERATE
         else:
             opponent_previous_action = self._get_previous_opponent_action()
             self._fill_opponent_actions_list(opponent_previous_action)
-            average: float = self._average_opponent_action()
 
-            if average >= 0.5:
+            if self._average_opponent_action() >= 0.75:
                 return Action.COOPERATE
             else:
                 return Action.CHEAT
