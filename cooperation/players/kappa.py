@@ -6,7 +6,6 @@ class Kappa(Player):
     NAME = "Pierre-Baptiste"
 
     def play(self, opponent: str):
-        print(opponent)
         if opponent == "Jame" or opponent == "Lucas":
             return Action.CHEAT
         else:
