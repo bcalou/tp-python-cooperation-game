@@ -12,13 +12,13 @@ class Alpha(Player):
                         - outMin))
 
     def play(self, opponent: str) -> Action:
-        reflexionTime: float = self.mapValue(random.random(), 0, 1, 1000, 5000)
+        reflexionTime: float = self.mapValue(random.random(), 0, 1, 1, 5)
         beginTime: float = time.time()
         currentTime: float = time.time()
 
         while currentTime - beginTime < reflexionTime:
             self._say("Just thinking, you know")
-            currentTime: float = time.time()
+            currentTime = time.time()
 
         willCheat: bool = bool(random.getrandbits(1))
         return Action.CHEAT if willCheat else Action.COOPERATE
