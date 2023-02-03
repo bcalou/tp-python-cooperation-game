@@ -7,4 +7,7 @@ class Delta(Player):
 
     def play(self, opponent: str) -> Action:
         """Choose what to do, cheat or cooperate"""
-        return Action.CHEAT if opponent == "Lucas" or opponent == "Jame" else Action.COOPERATE
+
+        self._say("Be sure who's your partner ;)")
+
+        return Action.COOPERATE if opponent == "Lucas" or opponent == "Jame" else Action.CHEAT
