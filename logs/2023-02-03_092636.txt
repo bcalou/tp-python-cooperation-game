@@ -1,0 +1,259 @@
+
+
+==================================================
+Colin VS Pierre
+
+ROUND 1
+Colin et Pierre coopèrent
+Colin gagne 2 pièce(s)
+Pierre gagne 2 pièce(s)
+
+ROUND 2
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 3
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 4
+Colin et Pierre coopèrent
+Colin gagne 2 pièce(s)
+Pierre gagne 2 pièce(s)
+
+ROUND 5
+Colin et Pierre coopèrent
+Colin gagne 2 pièce(s)
+Pierre gagne 2 pièce(s)
+
+ROUND 6
+Colin et Pierre coopèrent
+Colin gagne 2 pièce(s)
+Pierre gagne 2 pièce(s)
+
+ROUND 7
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+ROUND 8
+Colin et Pierre coopèrent
+Colin gagne 2 pièce(s)
+Pierre gagne 2 pièce(s)
+
+ROUND 9
+Colin et Pierre coopèrent
+Colin gagne 2 pièce(s)
+Pierre gagne 2 pièce(s)
+
+ROUND 10
+Colin a trahi Pierre !
+Colin gagne 3 pièce(s)
+Pierre perd 1 pièce(s)
+
+==================================================
+Colin VS Pierre-Baptiste
+
+ROUND 1
+Colin a trahi Pierre-Baptiste !
+Colin gagne 3 pièce(s)
+Pierre-Baptiste perd 1 pièce(s)
+
+ROUND 2
+Colin a trahi Pierre-Baptiste !
+Colin gagne 3 pièce(s)
+Pierre-Baptiste perd 1 pièce(s)
+
+ROUND 3
+Colin et Pierre-Baptiste coopèrent
+Colin gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 4
+Colin a trahi Pierre-Baptiste !
+Colin gagne 3 pièce(s)
+Pierre-Baptiste perd 1 pièce(s)
+
+ROUND 5
+Colin a trahi Pierre-Baptiste !
+Colin gagne 3 pièce(s)
+Pierre-Baptiste perd 1 pièce(s)
+
+ROUND 6
+Colin et Pierre-Baptiste coopèrent
+Colin gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 7
+Colin et Pierre-Baptiste coopèrent
+Colin gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 8
+Colin et Pierre-Baptiste coopèrent
+Colin gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 9
+Colin et Pierre-Baptiste coopèrent
+Colin gagne 2 pièce(s)
+Pierre-Baptiste gagne 2 pièce(s)
+
+ROUND 10
+Colin a trahi Pierre-Baptiste !
+Colin gagne 3 pièce(s)
+Pierre-Baptiste perd 1 pièce(s)
+
+==================================================
+Colin VS Jame
+
+ROUND 1
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 2
+Colin et Jame ont triché...
+
+ROUND 3
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 4
+Colin et Jame ont triché...
+
+ROUND 5
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 6
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 7
+Colin et Jame ont triché...
+
+ROUND 8
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 9
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 10
+Jame a trahi Colin !
+Jame gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+==================================================
+Colin VS Lucas
+
+ROUND 1
+Colin a trahi Lucas !
+Colin gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 2
+Colin a trahi Lucas !
+Colin gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 3
+Colin a trahi Lucas !
+Colin gagne 3 pièce(s)
+Lucas perd 1 pièce(s)
+
+ROUND 4
+Colin et Lucas ont triché...
+
+ROUND 5
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 6
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 7
+Colin et Lucas ont triché...
+
+ROUND 8
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 9
+Lucas a trahi Colin !
+Lucas gagne 3 pièce(s)
+Colin perd 1 pièce(s)
+
+ROUND 10
+Colin et Lucas ont triché...
+
+==================================================
+Colin VS Antoine
+
+ROUND 1
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 2
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 3
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 4
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 5
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 6
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 7
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 8
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+ROUND 9
+Colin et Antoine coopèrent
+Colin gagne 2 pièce(s)
+Antoine gagne 2 pièce(s)
+
+ROUND 10
+Colin a trahi Antoine !
+Colin gagne 3 pièce(s)
+Antoine perd 1 pièce(s)
+
+==================================================
+Colin VS Ewen
+
+ROUND 1
