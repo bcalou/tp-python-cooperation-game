@@ -13,7 +13,6 @@ class Omega(Player):
     def play(self, opponent: 'Player') -> Action:
 
         self._current_turn += 1
-        print(self._current_opponent)
 
         if opponent != self._current_opponent:
             self._current_turn = 0
