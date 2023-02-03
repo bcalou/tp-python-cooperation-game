@@ -49,7 +49,7 @@ class Game:
     def _fight_turn(self, player_a: Player, player_b: Player):
         """Compare both player actions for a turn"""
         player_a_action = self._get_player_action(player_a, player_b)
-        player_b_action = self._get_player_action(player_b, player_b)
+        player_b_action = self._get_player_action(player_b, player_a)
 
         if player_a_action == player_b_action == Action.COOPERATE:
             self._cooperate(player_a, player_b)
