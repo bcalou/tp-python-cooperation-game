@@ -3,7 +3,7 @@ from cooperation.player import Player
 
 
 class Display:
-    DISPLAY_WIDTH = 1000
+    DISPLAY_WIDTH = 1500
     SCREEN_CENTER = DISPLAY_WIDTH // 2
     DISPLAY_SIZE = (DISPLAY_WIDTH, DISPLAY_WIDTH)
     WHITE = (255, 255, 255)
