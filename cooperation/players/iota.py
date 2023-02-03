@@ -19,7 +19,13 @@ class Iota(Player):
         return Action.CHEAT
 
     def triche(self, opponent: str) -> Action:
-        """Choose what to do, cheat or cooperate"""
+        """Avec cette méthode, je prévois l'action de mon adversaire, et je joue
+        comme lui. La coopération fait avancer tout le monde, mais la seule
+        réponse à la triche est la triche.
+        Pour une triche, on remarque que ce n'est pas si efficace que ça, car
+        cette "triche" ne permet pas de gagner plus d'argent que les autres,
+        mais simplement de pas en perdre. Des améliorations sont à venir.
+        """
         
         from cooperation.players import alpha, beta, gamma, delta, kappa, omega, sigma
 
@@ -33,7 +39,10 @@ class Iota(Player):
             self.d_players[omega.Omega.NAME] = omega.Omega(faux_log)
             self.d_players[sigma.Sigma.NAME] = sigma.Sigma(faux_log)
 
+        action: Action = self.d_players[opponent].play(self.NAME)
+        self._say(f"Bah alors {opponent}, tu joues {action}")
+
         if opponent in self.d_players:
-            return self.d_players[opponent].play(self.NAME)
+            return action
         else:
             return Action.CHEAT
