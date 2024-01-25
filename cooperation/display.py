@@ -85,7 +85,7 @@ class Display:
         prefix = "--> " if player in playing else ""
 
         self._print_text(
-            f"{prefix}{player.NAME} ({player.get_cooperation_percenatage()})",
+            f"{prefix}{player.NAME} ({player.get_cooperation_percentage()})",
             (self.MARGIN, self.MARGIN + index * self._player_height),
             self.BLUE if player in playing else self.BLACK
         )

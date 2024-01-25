@@ -1,6 +1,5 @@
 from cooperation.types import Action, Turn
 from cooperation.log import Log
-import random
 
 
 class Player():
@@ -28,7 +27,7 @@ class Player():
 
         self.score -= value
 
-    def get_cooperation_percenatage(self) -> str:
+    def get_cooperation_percentage(self) -> str:
         """Get the percentage of turn where the player cooperated"""
 
         if len(self._game_history) == 0:

@@ -9,10 +9,11 @@ from cooperation.types import Action
 
 class Game:
     TURNS_PER_FIGHT = 10
-    COOPERATION_WIN = 2
-    BETRAYER_WIN = 3
-    BETRAYED_LOSS = 1
-    WAIT_BETWEEN_TURNS = 0.25
+    COOPERATION_WIN = 3
+    TREASON_WIN = 1
+    BETRAYER_WIN = 5
+    BETRAYED_LOSS = 0
+    WAIT_BETWEEN_TURNS = 0.1
 
     def __init__(self, players: list[Player], log: Log, display: Display):
         self._players = players.copy()
@@ -79,6 +80,9 @@ class Game:
     def _cheat(self, player_a: Player, player_b: Player):
         """The two player cheat, both loose"""
         self._log.add(f"{player_a.NAME} et {player_b.NAME} ont triché...")
+
+        player_a.wins(self.TREASON_WIN)
+        player_b.wins(self.TREASON_WIN)
 
     def _betray(self, player_a: Player, player_b: Player, action: Action):
         """One player betrays the other and take its money"""
