@@ -1,15 +1,17 @@
 from cooperation.player import Player
 from cooperation.types import Action
 
-
-class Badr(Player):
+class ImprovedBadr(Player):
     NAME = "Badr"
 
+    def __init__(self):
+        super().__init__()
+        self.history = {}  
+
     def play(self, opponent: str) -> Action:
-        return Action.COOPERATE
-    
-    def play(self, opponent: str) -> Action:
-        return self.last_opponent_action
+        if opponent not in self.history or not self.history[opponent]:
+            return Action.COOPERATE
+        return self.history[opponent]
 
     def result(self, opponent: str, my_action: Action, opponent_action: Action, result: int):
-        self.last_opponent_action = opponent_action
+        self.history[opponent] = opponent_action
