@@ -1,3 +1,5 @@
+from random import random
+
 from cooperation.player import Player
 from cooperation.types import Action
 
@@ -18,7 +20,7 @@ class Timothee(Player):
                 avg_action += 1
         avg_action /= len(self._game_history)
 
-        if avg_action > 0.4:
+        if avg_action > 0.45 or random() < 0.1:
             return Action.CHEAT
 
         return Action.COOPERATE

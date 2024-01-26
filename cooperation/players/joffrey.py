@@ -14,14 +14,14 @@ class Joffrey(Player):
         self._say("C'est la vague "+str(self.vague))
         if (len(self._fight_history)==0):
             self._say("Salut mon pote !!!")
-            self._say("On coopère pour la première vague ?")
+            self._say("On coopère pour la premiere vague ?")
             return Action.COOPERATE
-        self._say("Pour l'instant, tu as fait "+str(self.coop_count)+" cooperation et "+str(self.trap_count)+" trahisons")
         if(self._fight_history[-1]["opponent_action"]==Action.COOPERATE):
-            self._say("Tu as coopéré, "+str(self.coop_count)+" COPAIN !!!")
+            self._say("Tu as coopere, "+str(self.coop_count)+" COPAIN !!!")
             self.coop_count+=1
         if(self._fight_history[-1]["opponent_action"]==Action.CHEAT):
             self._say("Tu as triché, "+str(self.trap_count)+" fois TRAHISON !!!")
             self.trap_count+=1
+        self._say("Pour l'instant, tu as fait "+str(self.coop_count)+" cooperation et "+str(self.trap_count)+" trahisons")
         
         return self._fight_history[-1]["opponent_action"]

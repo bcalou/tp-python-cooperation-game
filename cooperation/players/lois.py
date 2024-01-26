@@ -4,6 +4,10 @@ import random
 
 class Lois(Player):
     NAME = "Loïs"
-
     def play(self, opponent: str) -> Action:
-        return (random.choices([Action.COOPERATE, Action.CHEAT], [0.44, 0.56])[0])
+        WEIGHT_1 = 0.5
+        WEIGHT_2 = 0.5
+        if (self._fight_history[-1] == Action.CHEAT):
+            WEIGHT_1 = 0.3
+            WEIGHT_2 = 0.7
+        return (random.choices([Action.COOPERATE, Action.CHEAT], [WEIGHT_1, WEIGHT_2])[0])
