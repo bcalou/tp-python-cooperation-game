@@ -8,26 +8,26 @@ class Marius(Player):
     def play(self, opponent: str) -> Action:
         
         match opponent:
-            case "Badr":
+            case "Bader":
                 return Action.COOPERATE
-            case "Baptiste":
+            case "Baptist":
                 return Action.COOPERATE
-            case "Ewen":
-                return Action.CHEAT
-            case "Hugo":
-                return Action.CHEAT
-            case "Joffrey":
-                return Action.CHEAT
-            case "Kayyissa":
-                return Action.CHEAT
-            case "Lois":
+            case "Ewenn":
                 return Action.COOPERATE
-            case "Nathan":
-                return Action.CHEAT
+            case "Hugoo":
+                return Action.COOPERATE
+            case "Goffrey":
+                return Action.COOPERATE
+            case "Kayyyissa":
+                return Action.COOPERATE
+            case "Loisse":
+                return Action.COOPERATE
+            case "Natan":
+                return Action.COOPERATE
             case "Theo":
                 return Action.COOPERATE
-            case "Timothee":
-                return Action.CHEAT
+            case "Timotee":
+                return Action.COOPERATE
             case _:
                 return Action.CHEAT
 
