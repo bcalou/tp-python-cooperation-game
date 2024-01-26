@@ -25,7 +25,7 @@ class Ewen(Player):
         elif self.__get_opponent_coop() > self.__threshold:
             return Action.CHEAT
         else:
-            return Action.COOPERATE
+            return Action.CHEAT
 
 
     def __get_opponent_coop(self) -> float:
