@@ -7,7 +7,7 @@ class Marius(Player):
 
     def play(self, opponent: str) -> Action:
         
-        print("big flemme d'aller lire les autres fonctions jvais rentrer dans vos têtes")
+        print("Nice Forgiving Reliatory Clear Win")
         match opponent:
             case "Badr":
                 return Action.CHEAT
