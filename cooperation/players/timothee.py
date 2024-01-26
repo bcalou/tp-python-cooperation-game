@@ -6,11 +6,11 @@ class Timothee(Player):
     NAME = "Timothee"
 
     def play(self, opponent: str) -> Action:
-        if len(self._game_history) == 0:
-            return Action.COOPERATE
-
-        if len(self._game_history) > 7:
+        if opponent == "Ewen": #t'es ban
             return Action.CHEAT
+
+        if len(self._game_history) <= 1:
+            return Action.COOPERATE
 
         avg_action = 0
         for turn in self._game_history:
@@ -18,7 +18,7 @@ class Timothee(Player):
                 avg_action += 1
         avg_action /= len(self._game_history)
 
-        if avg_action > 0.5:
+        if avg_action > 0.4:
             return Action.CHEAT
 
         return Action.COOPERATE
