@@ -6,6 +6,7 @@ class Timothee(Player):
     NAME = "Timothee"
 
     def play(self, opponent: str) -> Action:
+        return Action.CHEAT
         if len(self._game_history) == 0:
             return Action.CHEAT
 
