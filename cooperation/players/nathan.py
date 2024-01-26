@@ -30,8 +30,8 @@ class Nathan(Player):
         probability_of_cheating = (times_cheated * 100) / len(self._fight_history)
         probability_of_cooperating = (times_cooperated * 100) / len(self._fight_history)
 
-        print("probability of cheating ", opponent, ": ", probability_of_cheating)
-        print("probability of cooperating ", opponent, ": ", probability_of_cooperating)
+        # print("probability of cheating ", opponent, ": ", probability_of_cheating)
+        # print("probability of cooperating ", opponent, ": ", probability_of_cooperating)
 
         if probability_of_cheating > 0:
             return Action.CHEAT
