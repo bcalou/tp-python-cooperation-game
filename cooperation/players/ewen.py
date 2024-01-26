@@ -6,7 +6,7 @@ from cooperation.types import Action
 class Ewen(Player):
     NAME = "Ewen"
 
-    __threshold: float = 0.7
+    __threshold: float = 0.6
 
     def __init__(self, log: Log):
         super().__init__(log)
@@ -15,7 +15,7 @@ class Ewen(Player):
 
         if len(self._game_history) == 9:
             self.__threshold = (self.__threshold + (1 - self.__get_opponent_coop())) / 2
-            
+
         # The man's honest, sorry :)
         if opponent == "Joffrey":
             return Action.CHEAT
