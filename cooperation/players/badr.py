@@ -9,7 +9,6 @@ class ImprovedBadr(Player):
         self.history = {}  
 
     def play(self, opponent: str) -> Action:
-        # Si c'est la première fois que vous rencontrez cet adversaire, ou si vous n'avez pas d'information sur son dernier coup, coopérez.
         if opponent not in self.history or not self.history[opponent]:
             return Action.COOPERATE
         return self.history[opponent]
