@@ -6,4 +6,6 @@ class Hugo(Player):
     NAME = "Hugo"
 
     def play(self, opponent: str) -> Action:
-        return Action.COOPERATE
+
+        self._say("F*CK U AHAHAH !!!!!!")
+        return Action.CHEAT
