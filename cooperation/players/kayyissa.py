@@ -25,8 +25,7 @@ class Kayyissa(Player):
                 totalCoop += 1
             lastMove = turn["opponent_action"]
         
-
-        if totalCheat > totalCoop or lastMove == Action.COOPERATE:
+        if len(self._fight_history) > 1 and (totalCheat > totalCoop or lastMove == Action.COOPERATE):
             action = Action.CHEAT
         else:
             action = Action.COOPERATE
