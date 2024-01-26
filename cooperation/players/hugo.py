@@ -11,9 +11,9 @@ class Hugo(Player):
         mother_fuckers: list[str]
         gud_guys: list[str]
 
-        cool_score: float = self.get_cool_score()
+        his_cool_score: float = self.get_ennemy_cool_score()
 
-        if cool_score >= 0.65:
+        if his_cool_score >= 0.65:
 
             return (random.choices([Action.CHEAT, Action.COOPERATE], [0.1, 0.9])[0])
 
