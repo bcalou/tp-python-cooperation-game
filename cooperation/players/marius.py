@@ -6,4 +6,4 @@ class Marius(Player):
     NAME = "Marius"
 
     def play(self, opponent: str) -> Action:
-        return Action.COOPERATE
+        return Action.CHEAT
