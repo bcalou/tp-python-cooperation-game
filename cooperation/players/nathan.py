@@ -7,6 +7,11 @@ class Nathan(Player):
 
     def play(self, opponent: str) -> Action:
 
+        cheaters = ["Ewen", "Marius", "Timothee", "Hugo"]
+
+        if opponent in cheaters:
+            return Action.CHEAT
+
         times_cheated = 0
         times_cooperated = 0
 
@@ -25,10 +30,10 @@ class Nathan(Player):
         probability_of_cheating = (times_cheated * 100) / len(self._fight_history)
         probability_of_cooperating = (times_cooperated * 100) / len(self._fight_history)
 
-        if probability_of_cooperating > 20:
-            return Action.COOPERATE
+        print("probability of cheating ", opponent, ": ", probability_of_cheating)
+        print("probability of cooperating ", opponent, ": ", probability_of_cooperating)
 
-        if probability_of_cheating > 20:
+        if probability_of_cheating > 0:
             return Action.CHEAT
 
         return Action.COOPERATE
