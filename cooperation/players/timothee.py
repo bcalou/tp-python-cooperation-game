@@ -6,26 +6,19 @@ class Timothee(Player):
     NAME = "Timothee"
 
     def play(self, opponent: str) -> Action:
-        match opponent:
-            case "Badr":
-                return Action.COOPERATE
-            case "Baptiste":
-                return Action.CHEAT
-            case "Ewen":
-                return Action.COOPERATE
-            case "Hugo":
-                return Action.CHEAT
-            case "Joffrey":
-                return Action.CHEAT
-            case "Kayyissa":
-                return Action.CHEAT
-            case "Lois":
-                return Action.COOPERATE
-            case "Marius":
-                return Action.CHEAT
-            case "Nathan":
-                return Action.COOPERATE
-            case "Theo":
-                return Action.COOPERATE
-        return Action.COOPERATE
+        if len(self._game_history) == 0:
+            return Action.COOPERATE
 
+        if len(self._game_history) > 7:
+            return Action.CHEAT
+
+        avg_action = 0
+        for turn in self._game_history:
+            if turn["opponent_action"] != Action.CHEAT:
+                avg_action += 1
+        avg_action /= len(self._game_history)
+
+        if avg_action > 0.5:
+            return Action.CHEAT
+
+        return Action.COOPERATE

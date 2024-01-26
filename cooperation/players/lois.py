@@ -6,4 +6,4 @@ class Lois(Player):
     NAME = "Loïs"
 
     def play(self, opponent: str) -> Action:
-        return random.choice([Action.COOPERATE, Action.CHEAT])
+        return (random.choices([Action.COOPERATE, Action.CHEAT], [0.44, 0.56])[0])
