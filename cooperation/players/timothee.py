@@ -20,7 +20,7 @@ class Timothee(Player):
                 avg_action += 1
         avg_action /= len(self._game_history)
 
-        if avg_action > 0.45 or random() < 0.1:
+        if avg_action > 0.2:
             return Action.CHEAT
 
         return Action.COOPERATE
