@@ -1,17 +1,16 @@
 from cooperation.player import Player
 from cooperation.types import Action
+import time
 
 
 class Baptiste(Player):
     NAME = "Baptiste"
 
     def play(self, opponent: str) -> Action:
-        if len(self._fight_history) < 10:
+        current_time = time.perf_counter()
+
+        last_digit = int(str(current_time)[-1])
+        if last_digit % 2 == 0:
             return Action.COOPERATE
         else:
-            recent_fights = self._fight_history[-10:]
-            cheat_count = sum(turn["opponent_action"] == Action.CHEAT for turn in recent_fights)
-            if cheat_count > 5:
-                return Action.CHEAT
-            else:
-                return Action.COOPERATE
+            return Action.CHEAT

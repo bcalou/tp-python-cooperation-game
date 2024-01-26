@@ -7,27 +7,28 @@ class Marius(Player):
 
     def play(self, opponent: str) -> Action:
         
+        print("big flemme d'aller lire les autres fonctions jvais rentrer dans vos têtes")
         match opponent:
-            case "Bader":
+            case "Badr":
+                return Action.CHEAT
+            case "Baptiste":
+                return Action.CHEAT
+            case "Ewen":
+                return Action.CHEAT
+            case "Hugo":
                 return Action.COOPERATE
-            case "Baptist":
+            case "Joffrey":
                 return Action.COOPERATE
-            case "Ewenn":
+            case "Kayyissa":
                 return Action.COOPERATE
-            case "Hugoo":
+            case "Loïs":
+                return Action.CHEAT
+            case "Nathan":
+                return Action.CHEAT
+            case "Théo":
                 return Action.COOPERATE
-            case "Goffrey":
-                return Action.COOPERATE
-            case "Kayyyissa":
-                return Action.COOPERATE
-            case "Loisse":
-                return Action.COOPERATE
-            case "Natan":
-                return Action.COOPERATE
-            case "Theo":
-                return Action.COOPERATE
-            case "Timotee":
-                return Action.COOPERATE
+            case "Timothee":
+                return Action.CHEAT
             case _:
                 return Action.CHEAT
 
