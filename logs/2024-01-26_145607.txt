@@ -1,0 +1,3116 @@
+
+
+==================================================
+Badr VS Loïs
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Loïs a trahi Badr !
+Loïs gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Loïs a trahi Badr !
+Loïs gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Loïs a trahi Badr !
+Loïs gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Loïs coopèrent
+Badr gagne 3 pièce(s)
+Loïs gagne 3 pièce(s)
+
+==================================================
+Badr VS Ewen
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Ewen a trahi Badr !
+Ewen gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+==================================================
+Badr VS Joffrey
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Joffrey coopèrent
+Badr gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+==================================================
+Badr VS Kayyissa
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Kayyissa coopèrent
+Badr gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+==================================================
+Badr VS Nathan
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Nathan coopèrent
+Badr gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+==================================================
+Badr VS Hugo
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Badr !
+Hugo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+==================================================
+Badr VS Marius
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Marius a trahi Badr !
+Marius gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+==================================================
+Badr VS Timothee
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Timothee coopèrent
+Badr gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+==================================================
+Badr VS Théo
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Théo a trahi Badr !
+Théo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Théo coopèrent
+Badr gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Théo a trahi Badr !
+Théo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Théo coopèrent
+Badr gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Théo a trahi Badr !
+Théo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Badr et Théo coopèrent
+Badr gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Théo a trahi Badr !
+Théo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Théo coopèrent
+Badr gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Théo a trahi Badr !
+Théo gagne 5 pièce(s)
+Badr perd 0 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Théo coopèrent
+Badr gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+==================================================
+Badr VS Baptiste
+
+ROUND 1
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 2
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 3
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 4
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 5
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 6
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 7
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 8
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 9
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 10
+Erreur d'éxecution pour Badr
+Badr et Baptiste coopèrent
+Badr gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+==================================================
+Loïs VS Ewen
+
+ROUND 1
+Ewen a trahi Loïs !
+Ewen gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 2
+Ewen a trahi Loïs !
+Ewen gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 3
+Loïs et Ewen ont triché...
+Loïs gagne 1 pièce(s)
+Ewen gagne 1 pièce(s)
+
+ROUND 4
+Ewen a trahi Loïs !
+Ewen gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 5
+Loïs et Ewen ont triché...
+Loïs gagne 1 pièce(s)
+Ewen gagne 1 pièce(s)
+
+ROUND 6
+Loïs et Ewen ont triché...
+Loïs gagne 1 pièce(s)
+Ewen gagne 1 pièce(s)
+
+ROUND 7
+Loïs et Ewen ont triché...
+Loïs gagne 1 pièce(s)
+Ewen gagne 1 pièce(s)
+
+ROUND 8
+Ewen a trahi Loïs !
+Ewen gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 9
+Ewen a trahi Loïs !
+Ewen gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 10
+Ewen a trahi Loïs !
+Ewen gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+==================================================
+Loïs VS Joffrey
+
+ROUND 1
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 3
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 4
+Loïs et Joffrey coopèrent
+Loïs gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 5
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 6
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 7
+Loïs et Joffrey coopèrent
+Loïs gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 8
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 9
+Loïs et Joffrey coopèrent
+Loïs gagne 3 pièce(s)
+Joffrey gagne 3 pièce(s)
+
+ROUND 10
+Loïs a trahi Joffrey !
+Loïs gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+==================================================
+Loïs VS Kayyissa
+
+ROUND 1
+Loïs et Kayyissa coopèrent
+Loïs gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 2
+Loïs a trahi Kayyissa !
+Loïs gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 3
+Loïs et Kayyissa ont triché...
+Loïs gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 4
+Loïs et Kayyissa ont triché...
+Loïs gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 5
+Loïs et Kayyissa ont triché...
+Loïs gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 6
+Kayyissa a trahi Loïs !
+Kayyissa gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 7
+Kayyissa a trahi Loïs !
+Kayyissa gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 8
+Kayyissa a trahi Loïs !
+Kayyissa gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 9
+Loïs et Kayyissa ont triché...
+Loïs gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 10
+Loïs et Kayyissa ont triché...
+Loïs gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+==================================================
+Loïs VS Nathan
+
+ROUND 1
+Loïs et Nathan coopèrent
+Loïs gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 2
+Loïs a trahi Nathan !
+Loïs gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 3
+Loïs a trahi Nathan !
+Loïs gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 4
+Loïs et Nathan coopèrent
+Loïs gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 5
+Loïs et Nathan coopèrent
+Loïs gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 6
+Loïs a trahi Nathan !
+Loïs gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 7
+Loïs et Nathan coopèrent
+Loïs gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 8
+Loïs a trahi Nathan !
+Loïs gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 9
+Loïs et Nathan coopèrent
+Loïs gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 10
+Loïs a trahi Nathan !
+Loïs gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+==================================================
+Loïs VS Hugo
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Loïs et Hugo ont triché...
+Loïs gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Loïs et Hugo ont triché...
+Loïs gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Loïs et Hugo ont triché...
+Loïs gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Loïs !
+Hugo gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Loïs !
+Hugo gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Loïs !
+Hugo gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Loïs et Hugo ont triché...
+Loïs gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Loïs et Hugo ont triché...
+Loïs gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Loïs !
+Hugo gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Loïs et Hugo ont triché...
+Loïs gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+==================================================
+Loïs VS Marius
+
+ROUND 1
+Loïs et Marius ont triché...
+Loïs gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 2
+Marius a trahi Loïs !
+Marius gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 3
+Marius a trahi Loïs !
+Marius gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 4
+Marius a trahi Loïs !
+Marius gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 5
+Loïs et Marius ont triché...
+Loïs gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 6
+Loïs et Marius ont triché...
+Loïs gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 7
+Marius a trahi Loïs !
+Marius gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 8
+Loïs et Marius ont triché...
+Loïs gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 9
+Marius a trahi Loïs !
+Marius gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 10
+Marius a trahi Loïs !
+Marius gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+==================================================
+Loïs VS Timothee
+
+ROUND 1
+Loïs et Timothee coopèrent
+Loïs gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 2
+Loïs a trahi Timothee !
+Loïs gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 3
+Loïs a trahi Timothee !
+Loïs gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 4
+Loïs et Timothee coopèrent
+Loïs gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 5
+Loïs et Timothee coopèrent
+Loïs gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 6
+Loïs et Timothee coopèrent
+Loïs gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 7
+Loïs et Timothee coopèrent
+Loïs gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+ROUND 8
+Loïs a trahi Timothee !
+Loïs gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 9
+Loïs a trahi Timothee !
+Loïs gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 10
+Loïs et Timothee coopèrent
+Loïs gagne 3 pièce(s)
+Timothee gagne 3 pièce(s)
+
+==================================================
+Loïs VS Théo
+
+ROUND 1
+Théo a trahi Loïs !
+Théo gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 2
+Loïs a trahi Théo !
+Loïs gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 3
+Loïs et Théo ont triché...
+Loïs gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 4
+Loïs a trahi Théo !
+Loïs gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 5
+Loïs et Théo ont triché...
+Loïs gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 6
+Loïs et Théo coopèrent
+Loïs gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 7
+Loïs et Théo ont triché...
+Loïs gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 8
+Loïs a trahi Théo !
+Loïs gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 9
+Loïs et Théo ont triché...
+Loïs gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 10
+Loïs a trahi Théo !
+Loïs gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+==================================================
+Loïs VS Baptiste
+
+ROUND 1
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 2
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 3
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 4
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 5
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 6
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 7
+Loïs a trahi Baptiste !
+Loïs gagne 5 pièce(s)
+Baptiste perd 0 pièce(s)
+
+ROUND 8
+Baptiste a trahi Loïs !
+Baptiste gagne 5 pièce(s)
+Loïs perd 0 pièce(s)
+
+ROUND 9
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 10
+Loïs et Baptiste coopèrent
+Loïs gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+==================================================
+Ewen VS Joffrey
+
+ROUND 1
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 3
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 4
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 5
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 6
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 7
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 8
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 9
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 10
+Ewen a trahi Joffrey !
+Ewen gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+==================================================
+Ewen VS Kayyissa
+
+ROUND 1
+Ewen a trahi Kayyissa !
+Ewen gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 2
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 3
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 4
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 5
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 6
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 7
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 8
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 9
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+ROUND 10
+Ewen et Kayyissa ont triché...
+Ewen gagne 1 pièce(s)
+Kayyissa gagne 1 pièce(s)
+
+==================================================
+Ewen VS Nathan
+
+ROUND 1
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 2
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 3
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 4
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 5
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 6
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 7
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 8
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 9
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 10
+Ewen a trahi Nathan !
+Ewen gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+==================================================
+Ewen VS Hugo
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Ewen et Hugo ont triché...
+Ewen gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+==================================================
+Ewen VS Marius
+
+ROUND 1
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 2
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 3
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 4
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 5
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 6
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 7
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 8
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 9
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 10
+Ewen et Marius ont triché...
+Ewen gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+==================================================
+Ewen VS Timothee
+
+ROUND 1
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 2
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 3
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 4
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 5
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 6
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 7
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 8
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 9
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 10
+Ewen a trahi Timothee !
+Ewen gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+==================================================
+Ewen VS Théo
+
+ROUND 1
+Ewen et Théo ont triché...
+Ewen gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 2
+Ewen a trahi Théo !
+Ewen gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 3
+Ewen et Théo ont triché...
+Ewen gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 4
+Ewen a trahi Théo !
+Ewen gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 5
+Ewen et Théo ont triché...
+Ewen gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 6
+Ewen a trahi Théo !
+Ewen gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 7
+Ewen et Théo ont triché...
+Ewen gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 8
+Ewen a trahi Théo !
+Ewen gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 9
+Ewen et Théo ont triché...
+Ewen gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 10
+Ewen a trahi Théo !
+Ewen gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+==================================================
+Ewen VS Baptiste
+
+ROUND 1
+Ewen a trahi Baptiste !
+Ewen gagne 5 pièce(s)
+Baptiste perd 0 pièce(s)
+
+ROUND 2
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 3
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 4
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 5
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 6
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 7
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 8
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 9
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 10
+Ewen et Baptiste ont triché...
+Ewen gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+==================================================
+Joffrey VS Kayyissa
+
+ROUND 1
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 2
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 3
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 4
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 5
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 6
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 7
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 8
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 9
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+ROUND 10
+Joffrey et Kayyissa coopèrent
+Joffrey gagne 3 pièce(s)
+Kayyissa gagne 3 pièce(s)
+
+==================================================
+Joffrey VS Nathan
+
+ROUND 1
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 2
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 3
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 4
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 5
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 6
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 7
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 8
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 9
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+ROUND 10
+Joffrey et Nathan coopèrent
+Joffrey gagne 3 pièce(s)
+Nathan gagne 3 pièce(s)
+
+==================================================
+Joffrey VS Hugo
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Joffrey !
+Hugo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+==================================================
+Joffrey VS Marius
+
+ROUND 1
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 3
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 4
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 5
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 6
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 7
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 8
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 9
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 10
+Marius a trahi Joffrey !
+Marius gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+==================================================
+Joffrey VS Timothee
+
+ROUND 1
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 3
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 4
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 5
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 6
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 7
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 8
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 9
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 10
+Timothee a trahi Joffrey !
+Timothee gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+==================================================
+Joffrey VS Théo
+
+ROUND 1
+Théo a trahi Joffrey !
+Théo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Joffrey et Théo coopèrent
+Joffrey gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 3
+Théo a trahi Joffrey !
+Théo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 4
+Joffrey et Théo coopèrent
+Joffrey gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 5
+Théo a trahi Joffrey !
+Théo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 6
+Joffrey et Théo coopèrent
+Joffrey gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 7
+Théo a trahi Joffrey !
+Théo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 8
+Joffrey et Théo coopèrent
+Joffrey gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 9
+Théo a trahi Joffrey !
+Théo gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 10
+Joffrey et Théo coopèrent
+Joffrey gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+==================================================
+Joffrey VS Baptiste
+
+ROUND 1
+Baptiste a trahi Joffrey !
+Baptiste gagne 5 pièce(s)
+Joffrey perd 0 pièce(s)
+
+ROUND 2
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 3
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 4
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 5
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 6
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 7
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 8
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 9
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 10
+Joffrey et Baptiste coopèrent
+Joffrey gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+==================================================
+Kayyissa VS Nathan
+
+ROUND 1
+Nathan a trahi Kayyissa !
+Nathan gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 2
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 3
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 4
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 5
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 6
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 7
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 8
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 9
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+ROUND 10
+Kayyissa et Nathan ont triché...
+Kayyissa gagne 1 pièce(s)
+Nathan gagne 1 pièce(s)
+
+==================================================
+Kayyissa VS Hugo
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Kayyissa !
+Hugo gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Kayyissa et Hugo ont triché...
+Kayyissa gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+==================================================
+Kayyissa VS Marius
+
+ROUND 1
+Marius a trahi Kayyissa !
+Marius gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 2
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 3
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 4
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 5
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 6
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 7
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 8
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 9
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 10
+Kayyissa et Marius ont triché...
+Kayyissa gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+==================================================
+Kayyissa VS Timothee
+
+ROUND 1
+Timothee a trahi Kayyissa !
+Timothee gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 2
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 3
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 4
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 5
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 6
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 7
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 8
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 9
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 10
+Kayyissa et Timothee ont triché...
+Kayyissa gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+==================================================
+Kayyissa VS Théo
+
+ROUND 1
+Théo a trahi Kayyissa !
+Théo gagne 5 pièce(s)
+Kayyissa perd 0 pièce(s)
+
+ROUND 2
+Kayyissa a trahi Théo !
+Kayyissa gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 3
+Kayyissa et Théo ont triché...
+Kayyissa gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 4
+Kayyissa a trahi Théo !
+Kayyissa gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 5
+Kayyissa et Théo ont triché...
+Kayyissa gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 6
+Kayyissa a trahi Théo !
+Kayyissa gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 7
+Kayyissa et Théo ont triché...
+Kayyissa gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 8
+Kayyissa a trahi Théo !
+Kayyissa gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 9
+Kayyissa et Théo ont triché...
+Kayyissa gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 10
+Kayyissa a trahi Théo !
+Kayyissa gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+==================================================
+Kayyissa VS Baptiste
+
+ROUND 1
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 2
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 3
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 4
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 5
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 6
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 7
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 8
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 9
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+ROUND 10
+Kayyissa et Baptiste coopèrent
+Kayyissa gagne 3 pièce(s)
+Baptiste gagne 3 pièce(s)
+
+==================================================
+Nathan VS Hugo
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Nathan et Hugo ont triché...
+Nathan gagne 1 pièce(s)
+Hugo gagne 1 pièce(s)
+
+==================================================
+Nathan VS Marius
+
+ROUND 1
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 2
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 3
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 4
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 5
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 6
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 7
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 8
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 9
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 10
+Marius a trahi Nathan !
+Marius gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+==================================================
+Nathan VS Timothee
+
+ROUND 1
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 2
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 3
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 4
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 5
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 6
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 7
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 8
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 9
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 10
+Nathan a trahi Timothee !
+Nathan gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+==================================================
+Nathan VS Théo
+
+ROUND 1
+Théo a trahi Nathan !
+Théo gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 2
+Nathan et Théo coopèrent
+Nathan gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 3
+Théo a trahi Nathan !
+Théo gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 4
+Nathan et Théo coopèrent
+Nathan gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 5
+Théo a trahi Nathan !
+Théo gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 6
+Nathan et Théo coopèrent
+Nathan gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 7
+Théo a trahi Nathan !
+Théo gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 8
+Nathan et Théo coopèrent
+Nathan gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 9
+Théo a trahi Nathan !
+Théo gagne 5 pièce(s)
+Nathan perd 0 pièce(s)
+
+ROUND 10
+Nathan et Théo coopèrent
+Nathan gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+==================================================
+Nathan VS Baptiste
+
+ROUND 1
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 2
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 3
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 4
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 5
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 6
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 7
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 8
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 9
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 10
+Nathan et Baptiste ont triché...
+Nathan gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+==================================================
+Hugo VS Marius
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Marius ont triché...
+Hugo gagne 1 pièce(s)
+Marius gagne 1 pièce(s)
+
+==================================================
+Hugo VS Timothee
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Timothee ont triché...
+Hugo gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+==================================================
+Hugo VS Théo
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Théo ont triché...
+Hugo gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Théo !
+Hugo gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Théo ont triché...
+Hugo gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Théo !
+Hugo gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Théo ont triché...
+Hugo gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Théo !
+Hugo gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Théo ont triché...
+Hugo gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Théo !
+Hugo gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Théo ont triché...
+Hugo gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo a trahi Théo !
+Hugo gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+==================================================
+Hugo VS Baptiste
+
+ROUND 1
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 2
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 3
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 4
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 5
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 6
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 7
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 8
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 9
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 10
+Hugo dit: F*CK U AHAHAH !!!!!!
+Hugo et Baptiste ont triché...
+Hugo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+==================================================
+Marius VS Timothee
+
+ROUND 1
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 2
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 3
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 4
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 5
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 6
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 7
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 8
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 9
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+ROUND 10
+Marius et Timothee ont triché...
+Marius gagne 1 pièce(s)
+Timothee gagne 1 pièce(s)
+
+==================================================
+Marius VS Théo
+
+ROUND 1
+Marius et Théo ont triché...
+Marius gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 2
+Marius a trahi Théo !
+Marius gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 3
+Marius et Théo ont triché...
+Marius gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 4
+Marius a trahi Théo !
+Marius gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 5
+Marius et Théo ont triché...
+Marius gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 6
+Marius a trahi Théo !
+Marius gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 7
+Marius et Théo ont triché...
+Marius gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 8
+Marius a trahi Théo !
+Marius gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 9
+Marius et Théo ont triché...
+Marius gagne 1 pièce(s)
+Théo gagne 1 pièce(s)
+
+ROUND 10
+Marius a trahi Théo !
+Marius gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+==================================================
+Marius VS Baptiste
+
+ROUND 1
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 2
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 3
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 4
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 5
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 6
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 7
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 8
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 9
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 10
+Marius et Baptiste ont triché...
+Marius gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+==================================================
+Timothee VS Théo
+
+ROUND 1
+Théo a trahi Timothee !
+Théo gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 2
+Timothee et Théo coopèrent
+Timothee gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 3
+Théo a trahi Timothee !
+Théo gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 4
+Timothee et Théo coopèrent
+Timothee gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 5
+Théo a trahi Timothee !
+Théo gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 6
+Timothee et Théo coopèrent
+Timothee gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 7
+Théo a trahi Timothee !
+Théo gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 8
+Timothee et Théo coopèrent
+Timothee gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+ROUND 9
+Théo a trahi Timothee !
+Théo gagne 5 pièce(s)
+Timothee perd 0 pièce(s)
+
+ROUND 10
+Timothee et Théo coopèrent
+Timothee gagne 3 pièce(s)
+Théo gagne 3 pièce(s)
+
+==================================================
+Timothee VS Baptiste
+
+ROUND 1
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 2
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 3
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 4
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 5
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 6
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 7
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 8
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 9
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 10
+Timothee et Baptiste ont triché...
+Timothee gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+==================================================
+Théo VS Baptiste
+
+ROUND 1
+Théo et Baptiste ont triché...
+Théo gagne 1 pièce(s)
+Baptiste gagne 1 pièce(s)
+
+ROUND 2
+Baptiste a trahi Théo !
+Baptiste gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 3
+Théo a trahi Baptiste !
+Théo gagne 5 pièce(s)
+Baptiste perd 0 pièce(s)
+
+ROUND 4
+Baptiste a trahi Théo !
+Baptiste gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 5
+Théo a trahi Baptiste !
+Théo gagne 5 pièce(s)
+Baptiste perd 0 pièce(s)
+
+ROUND 6
+Baptiste a trahi Théo !
+Baptiste gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 7
+Théo a trahi Baptiste !
+Théo gagne 5 pièce(s)
+Baptiste perd 0 pièce(s)
+
+ROUND 8
+Baptiste a trahi Théo !
+Baptiste gagne 5 pièce(s)
+Théo perd 0 pièce(s)
+
+ROUND 9
+Théo a trahi Baptiste !
+Théo gagne 5 pièce(s)
+Baptiste perd 0 pièce(s)
+
+ROUND 10
+Baptiste a trahi Théo !
+Baptiste gagne 5 pièce(s)
+Théo perd 0 pièce(s)
